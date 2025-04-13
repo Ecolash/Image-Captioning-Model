@@ -1,0 +1,929 @@
+filename,caption
+test_1,The image is of a train on the tracks. The train is red and white. There is a large white building behind the train. 
+test_2,This is an image of a clock. The clock is black and has a white face. There is a silver face on the top of the clock and a black face in the middle of it. 
+test_3,There is a wooden table in the middle of a room. There are a lot of books on top of the table. The table is made of wood and has a white table cloth on it. 
+test_4,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_5,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_6,There are two horses in the field. One of the horses is black and the other one is white. There is a fence behind the horse. 
+test_7,A woman is sitting at a table. She is wearing a white t-shirt and blue jeans. There is a silver laptop on top of the woman's head. 
+test_8,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_9,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_10,A man is standing on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_11,A red and white train is on the tracks. There is a yellow and green sign on top of the train. The train has a red stripe down the side of it. 
+test_12,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_13,This is an image of a toilet. The toilet is white. There is a black handle on the side of the toilet that has a white handle. On the other side there is another handle with a red handle and white handles. 
+test_14,A black and white dog is standing on the ground. The dog has a black collar around its neck. There is a white fence behind the dog. 
+test_15,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the bird. 
+test_16,A white toilet is sitting on top of a white wall. There is a black door on the wall behind the toilet. 
+test_17,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_18,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_19,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall.
+test_20,A wooden bench is sitting on the ground. There is a black and white picture hanging from the wall above the bench. The picture is of a man in a blue shirt and blue pants. 
+test_21,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_22,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_23,A man is standing on top of a skateboard. He is wearing a blue shirt and blue shorts. There is a white fence behind the man. 
+test_24,A man is standing on top of a skateboard. He is wearing a blue shirt and blue shorts. There is a white fence behind the man. 
+test_25,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_26,A wooden bench is sitting on the ground. There is a black and white picture hanging from the bench. The picture is on a white wall. 
+test_27,A black and white bird is standing on top of a white and blue bench. The bench is made of wood. There is a black pole next to the bird. 
+test_28,There is a white bowl on the table. There are bananas on top of the bowl. The bananas are yellow and green. 
+test_29,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_30,A man in a blue shirt and black pants is holding a white frisbee in his hand. The man is wearing a black and white striped shirt. There are trees behind the man. 
+test_31,There is a black and white bird in the water. The water is calm and clear. There are small rocks on the ground in front of the bird.
+test_32,A black and white striped cat is sitting on top of a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_33,A large brown and white bird is standing on top of a large rock wall. The bird has a long black beak and is looking down at the ground. There is a small brown building behind the bird. 
+test_34,A man is standing in front of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_35,There is a wooden bench sitting on the ground. The bench is made of wood. There are two windows in the back of the bench. One window is white and the other is black. 
+test_36,A little girl is sitting on a bench. The bench is made of wood. She is wearing a white shirt and blue jeans. There is a black and white dog on the bench next to her. 
+test_37,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_38,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_39,There is a large brown and white horse in the water. The water is calm and clear. There are small waves on the shore. 
+test_40,There is a man wearing a white shirt and blue shorts. He is holding a black and white frisbee in his hand. There are trees behind the man. 
+test_41,A woman is sitting on a bench. She is wearing a white shirt and black pants. The bench is made of wood. There is a black door behind the woman. 
+test_42,A man in a blue shirt and blue shorts is standing on a wooden bench. There is a black and white dog in front of him. The bench is made of wood. 
+test_43,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_44,A wooden bench is sitting on the ground. There is a black and white picture hanging above the bench. The picture is on a white wall. 
+test_45,A man is standing on a skateboard. He is wearing a white shirt and black pants. There is a red and white sign on the side of the man. 
+test_46,There is a wooden bench in the middle of the woods. The bench is made of wood. There are trees behind the bench. 
+test_47,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_48,There is a white bus on the street. There are people sitting on top of the bus. The bus is red and white. 
+test_49,A man is standing in front of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_50,A red and white stop sign is on a pole. There is a red light next to the sign. The sign has white writing on it. 
+test_51,A wooden bench is sitting on the ground. There is a black and white bird perched on top of the bench. The bird has a long black beak. 
+test_52,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_53,A man is standing on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_54,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_55,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_56,A wooden bench is sitting on the ground. There is a black and white picture hanging from the bench. The picture is of a man standing on a bench wearing a white shirt and black pants. 
+test_57,A man is standing on a skateboard. He is wearing a white shirt and black pants. There is a red and white sign on the skate board. 
+test_58,A black and white dog is sitting on a bench. The bench is made of wood. There is a white wall behind the dog. 
+test_59,A little boy is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_60,A black and white dog is standing on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_61,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a white and black bird in the back. 
+test_62,A man is standing in front of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_63,A man is standing on a skateboard. He is wearing a white shirt and black pants. There is a black fence behind the man. 
+test_64,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_65,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white face and black writing on it. 
+test_66,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. There is a black dog in front of the man. 
+test_67,A black and white polar bear is standing on top of a rock wall. The wall is made of concrete. There is a black pole next to the bear. 
+test_68,A man is standing on a tennis court playing tennis. He is wearing a white shirt and blue shorts. The court is green with white lines on it. There is a green fence behind the man. 
+test_69,There is a white toilet in the middle of the room. There are two white towels hanging from the wall above the toilet. The wall is made of wood. 
+test_70,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall behind the toilet. It is made of glass. On top of the mirror there are two white towels. Behind the towel there is another towel.
+test_71,A man is playing tennis on a tennis court. He is wearing a white shirt and blue shorts. The court is green and white in color. There is a green fence behind the man. 
+test_72,A man is standing in front of a wall. He is wearing a black shirt and black pants. There is a white wall behind the man. 
+test_73,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_74,This is a bathroom. The bathroom is white. There are two sinks on the wall. One of the sinks has a white soap dispenser on it. On the other sink there is an orange and white toilet paper holder. Next to the sink
+test_75,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_76,A wooden bench is sitting on the ground. There is a white building behind the bench.  The bench has a red and white sign on it. The sign is on top of a black pole.
+test_77,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a black metal fence behind the bird. 
+test_78,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_79,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_80,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_81,A man is standing on top of a skateboard. He is wearing a white shirt and black pants. There is a black and white picture on the skate board. 
+test_82,A large brown and white bird is standing on top of a rock wall.  The bird has a long black beak and is wearing a black hat and black pants. The wall is made of brick and has white lines painted on it.
+test_83,A wooden table is sitting on top of a white wall. There is a black and white picture hanging on the wall next to the table. The table has a brown wooden chair in front of it. 
+test_84,A tall brick building with a clock on top of it. The clock is white and has a black face. There is a white building behind the building. 
+test_85,A black and white dog is standing on the ground. The dog has a black collar around its neck. There is a white fence behind the dog. 
+test_86,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_87,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_88,There is a white toilet in the middle of the room. There are two white sinks on the wall next to the toilet. The floor is made of tiles. 
+test_89,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_90,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_91,A man is standing on top of a white surfboard. He is wearing a blue shirt and blue shorts. There is a large wave in the water behind him. 
+test_92,A black and white dog is standing on top of a black fence. The dog has a white collar around its neck. There is a green fence behind the dog. 
+test_93,There is a white bus on the street. There are people sitting on top of the bus. The bus is red and white. 
+test_94,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a metal fence behind the dog. 
+test_95,There is a wooden bench in the middle of a field. The bench is made of wood. There are trees behind the bench. 
+test_96,There is a train on the tracks. The train is red and white. There is an orange pole next to the train. 
+test_97,There is a wooden table with a white table cloth on top of it. The table is made of wood. There are two chairs in the middle of the table. One chair is white and the other one is black. 
+test_98,There is a man wearing a white shirt and blue jeans. The man is holding a black and white frisbee in his hand. There are trees behind the man. 
+test_99,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_100,There is a man sitting on a bench. The bench is made of wood. There are trees behind the man. 
+test_101,There is a plane in the sky. The plane is white and blue. There are people standing on the ground behind the plane. 
+test_102,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall.
+test_103,A man is standing on top of a skateboard. He is wearing a white shirt and black pants. There is a black fence behind the man. 
+test_104,The image is of a boat. The boat is blue and white. There is a man in a blue shirt and blue shorts standing on the side of the boat with his arms outstretched. He is holding a white surfboard in his hand.
+test_105,There is a train on the tracks. The train is red and white. There are trees behind the train. 
+test_106,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall behind the toilet. It is made of glass. On top of the mirror there is another mirror with a blue and white design on it. 
+test_107,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_108,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. He is wearing a white shirt and blue jeans.
+test_109,There is a large white building with many windows on it. The building is made of brick. There are two clocks on the building. One of the clocks is white and the other one is blue and black. 
+test_110,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_111,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_112,A wooden bench is sitting on the ground. There is a black and white bird perched on top of the bench. The bird has a long black beak. 
+test_113,A wooden bench is sitting on top of a brick wall. There is a clock on the side of the bench. The clock is black with white numbers on it. 
+test_114,A man is playing tennis on a tennis court. He is wearing a white shirt and blue shorts. The court is green and white. There is a green fence behind the man. 
+test_115,A black and white photo of a man and a woman sitting on a bench. The man is wearing a blue shirt and blue jeans. He is holding a black remote control in his hand. There is a white building behind the man. 
+test_116,A man is standing on a tennis court playing tennis. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_117,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_118,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_119,A black and white dog is sitting on a bench. The bench is made of wood. There is a white fence behind the dog. 
+test_120,A wooden bench is sitting on top of a concrete slab.  The bench has a red and white stripe down the side of the bench and a black stripe up the middle of it. There is a white and blue sign on the top and bottom
+test_121,A man in a blue shirt and black pants is standing on top of a skateboard. The man is wearing a black helmet. There is a white building behind the man. 
+test_122,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_123,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_124,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there is another mirror with a blue and white design on it. Next
+test_125,There is a wooden bench sitting on the ground. The bench is made of wood. There is an orange and black umbrella on top of the bench. 
+test_126,A wooden bench is sitting on the ground. There is a black and white bird perched on top of the bench. The bird has a long black beak. 
+test_127,A black and white dog is standing on top of a white surfboard. The dog has a black collar around its neck. There is a yellow and black surf board behind the dog. 
+test_128,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_129,A black bear is standing on top of a rock wall. The wall is made of metal. There is a metal fence behind the bear. 
+test_130,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_131,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. There is a black dog in front of the man. 
+test_132,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_133,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall.
+test_134,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. He is wearing a blue shirt and blue jeans.
+test_135,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_136,A wooden bench sits in a grassy area.  The bench is made of wood and has a black and white stripe down the side of the bench. There is a wooden fence surrounding the area with a green and yellow line dividing the grass.
+test_137,A man in a blue shirt and blue jeans is standing in front of a white wall. There is a black and white clock on the wall behind the man. 
+test_138,A black and white picture of a dog. The dog is wearing a white collar. There is a red and black dog on the other side of the picture. 
+test_139,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_140,There is a white table in a room. There are two chairs in front of the table. The chairs are made of wood and the wood is light brown in color. 
+test_141,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_142,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_143,A wooden bench is sitting on the ground. There is a white wall behind the bench. The bench has a black handle. 
+test_144,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_145,A wooden bench is sitting on the ground. There is a wooden fence behind the bench.  The bench has a red and white stripe down the side of it.
+test_146,A man is standing on a bench holding a white frisbee in his hand. He is wearing a blue shirt and blue jeans. There is a black and white dog in front of him. 
+test_147,This is an image of a bathroom. The bathroom is white. There is a white toilet in the middle of the room. A white sink is next to the toilet. Two white towels are sitting on the wall above the sink. 
+test_148,A black and white photo of a man and a woman. The man is wearing a black jacket and black pants. He is holding a white frisbee in his hand. There is a large white building behind the man. 
+test_149,There is a wooden bench sitting on the ground. The bench is made of wood. There are a lot of trees behind the bench. 
+test_150,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels. One is on top and the other is
+test_151,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_152,The image is of a man and a dog. The man is wearing a blue shirt and blue jeans. He is holding a red and white frisbee in his hand. There is a white building behind the man. 
+test_153,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_154,A wooden bench is sitting on top of a stone wall. There is a clock on the side of the bench. The clock is black with white numbers on it. 
+test_155,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_156,A man is standing outside on a sunny day. He is wearing a black jacket and black pants. There is a white wall behind the man. 
+test_157,A black and white dog is standing on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_158,A black and white dog is laying on the ground. The dog has a white collar around its neck. There is a red and black dog next to it. 
+test_159,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. He is holding a white surfboard in his hand. There is a black fence behind the man. 
+test_160,There is a white desk in a room. There are books on top of the desk. The desk is made of wood and the books are black and white. 
+test_161,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building in the background.
+test_162,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_163,This is an image of a building. The building has a clock on the side of it. There is a white building behind the clock. 
+test_164,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall.
+test_165,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_166,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_167,A wooden bench sits in a room. The bench is made of wood. There is a window on the wall behind the bench. 
+test_168,A black and white photo of a man and a woman sitting on a bench. The woman is wearing a black jacket and black pants. She is holding a white and red cell phone to her ear. There is a silver pole next to the bench
+test_169,A black and white photo of a man and a dog. The man is wearing a white shirt and blue jeans. There is a black dog in front of the man. 
+test_170,A man is sitting on a bench. The bench is made of wood. There is a white building behind the man. 
+test_171,A large brown bear is standing on the ground. The bear has a black nose and black eyes. There is a tree behind the bear. 
+test_172,A black and white polar bear is standing on top of a large rock wall. The wall is made of metal bars. There is a black fence behind the bear. 
+test_173,There is a white toilet in the middle of the room. There are white shelves on the wall behind the toilet. The wall is made of wood. 
+test_174,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_175,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_176,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_177,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_178,A man in a blue shirt and black pants is standing on a wooden bench. He is holding a black and white frisbee in his hand. There is a white building behind the man. 
+test_179,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind the man. 
+test_180,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_181,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_182,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_183,A black and white picture of a cat. The cat is sitting on a black chair. There is a white lamp next to the chair with a blue handle on it. 
+test_184,There is a white toilet in the middle of the room. There are white shelves on the wall behind the toilet. The wall is made of wood. 
+test_185,There is a black and white picture of a man and a woman sitting at a table. The woman is wearing a white shirt and blue jeans. She is holding a red and black umbrella over her head. There is another table in front of the
+test_186,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_187,There is a red and white bus on the street. The bus is white and blue. There are trees behind the bus. 
+test_188,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a green tennis ball in front of him. 
+test_189,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_190,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_191,A black and white dog is sitting on a bench. The bench is made of wood. There is a white fence behind the dog. 
+test_192,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_193,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_194,A wooden bench sits in a room. The bench is made of wood. There is a white wall behind the bench. 
+test_195,A man is sitting on a bench. The bench is made of wood. There is a white building behind the man. 
+test_196,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white face and black writing on it. 
+test_197,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_198,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the bird. 
+test_199,A black and white cat is laying on a bed. The bed is made of wood. There is a white blanket on the bed and a blue blanket over it. 
+test_200,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_201,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_202,A large brown bear is standing on the ground. The bear has a black nose and black eyes. There is a large rock wall behind the bear. 
+test_203,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_204,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_205,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_206,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_207,There is a black and white train on the tracks. The train is yellow and black. There are trees behind the train. 
+test_208,A black and white striped zebra is standing on the grass. The grass is very green. There is a white fence behind the black fence. 
+test_209,A black and white picture of a dog. The dog is wearing a blue shirt and blue jeans. There is a white wall behind the dog and a black fence. 
+test_210,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock is black with white numbers on it. 
+test_211,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock is black with white numbers on it. 
+test_212,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_213,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_214,There is a black and white photo of a horse. The horse is standing on the grass. There are trees in the background. 
+test_215,A young boy is standing on a skateboard. He is wearing a blue shirt and blue shorts. There is a white fence behind the boy. 
+test_216,There is a white toilet in the bathroom. The toilet seat is white and the lid is open. There are two white towels hanging from the wall above the toilet. 
+test_217,There is a building with a clock on top of it. The clock is black and white. There are two windows on the building. One of the windows is white and the other window is blue. 
+test_218,A man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There are trees behind the man. 
+test_219,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_220,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_221,This is an image of a building. The building has a clock on the side of it. There is a white building behind the clock. 
+test_222,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_223,There is a black and white dog laying on the ground. The dog has a white collar around its neck. It is looking up at the camera. There is another black dog in the distance.
+test_224,There is a white table in the middle of a room. There are two chairs in front of the table. The chairs are made of wood and the wood is light brown in color. 
+test_225,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_226,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_227,This is an image of a building. The building is made of brick. There is a clock on the top of the building with a black face and white numbers on it. It has a white face with black hands and black numbers in the middle
+test_228,There is a black and white bird in the water. The bird is standing on the edge of a large body of water with a few small waves in it. There are many small rocks in front of the bird. 
+test_229,A man is standing on a skateboard. He is wearing a blue shirt and blue shorts. There is a white fence behind the man. 
+test_230,A black and white cat is sitting on top of a bed. The bed is made of wood. There is a white blanket on the bed and a blue blanket next to it. 
+test_231,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_232,A man is standing on a wooden bench. He is wearing a white shirt and blue jeans. The bench is made of wood. There is a black fence behind the man. 
+test_233,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall trees and a few tall grasses. There is a large rock wall behind the field and there are small rocks in front of it.
+test_234,There is a wooden bench in the middle of a field. There are trees in front of the bench. The bench is made of wood. 
+test_235,A black and white dog is sitting on a bench. The bench is made of wood. There is a white fence behind the dog. 
+test_236,A man is standing on top of a skateboard. He is wearing a blue shirt and blue shorts. There is a white fence behind the man. 
+test_237,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_238,A black and white bird is standing on top of a large rock wall.  The bird has a long black beak and is looking down at the ground in front of it. The wall is made of wood and has white lines painted on it
+test_239,There are three giraffes in a field. The field is covered with grass and weeds. There are trees in the background. 
+test_240,A man in a blue shirt and blue shorts is standing on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_241,A wooden bench is sitting in a room. There is a white wall behind the bench. The bench has a black handle and is made of wood. 
+test_242,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_243,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_244,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_245,A man is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_246,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_247,A black and white photo of a man and a woman. The man is wearing a white shirt and black pants. He is holding a black remote control in his hand. There is a red and green sign on the wall behind the man.
+test_248,A man in a blue shirt and black pants is standing on top of a black motorcycle. The man is wearing a red helmet and blue pants. There is a white building behind the man. 
+test_249,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock has a white face and black hands. 
+test_250,A large brown bear is standing in a field. The bear has a black and white striped shirt and black pants. There are trees behind the bear. 
+test_251,A wooden bench is sitting on top of a stone wall. There is a clock on the side of the bench. The clock is black with white numbers on it. 
+test_252,A wooden bench is sitting in a room. There is a white wall behind the bench. The bench has a black handle and is made of wood. 
+test_253,A man is riding a skateboard on a paved road. He is wearing a black helmet and black pants. There is a red stop sign on the side of the road with a white arrow pointing to the left. 
+test_254,There is a wooden table in the middle of a room. There are two chairs in front of the table. One chair is white and the other is black. The table is made of wood. 
+test_255,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building in the background.
+test_256,A red and white train is on the tracks. The train has a yellow and black stripe down the side of the train. There is a white sign above the front door. 
+test_257,There is a white toilet in the middle of the room. There are two white towels hanging from the wall above the toilet. The wall is made of wood. 
+test_258,A wooden bench is sitting on the ground. There is a black and white picture hanging above the bench. The picture is of a man and a dog. Both dogs are brown and have white faces. 
+test_259,A wooden bench is sitting on top of a metal railing. There is a black and white picture hanging on the wall behind the bench. 
+test_260,There are two tables in the room. There is a white table in front of the table. The table is made of wood and the wood is light brown in color. 
+test_261,A man is standing outside on a sunny day. He is wearing a black jacket and black pants. There is a white building behind the man. 
+test_262,There is a red and white bus on the street. The bus is white and blue. There are trees behind the bus. 
+test_263,There is a wooden bench in the middle of the woods. The bench is made of wood. There are trees behind the bench. 
+test_264,A group of people are standing on a grassy field. There is a man in a blue shirt and blue pants standing in front of the people. He is holding a black and white baseball bat in his hand. 
+test_265,A man in a blue shirt and black pants is standing on a bench. There is a black and white picture hanging on the wall behind him. The bench is made of wood. 
+test_266,A man is standing on a sidewalk. He is wearing a black jacket and black pants. There is a red and white sign on the sidewalk next to the man. 
+test_267,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_268,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_269,There is a wooden bench in the middle of the room. The bench is made of wood. There are a bunch of books on the bench. 
+test_270,A wooden bench is sitting on the ground. There is a white building behind the bench. The bench has a black and white sign on it. 
+test_271,A black and white striped cat is sitting on top of a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_272,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_273,A man is standing on a tennis court playing tennis. He is wearing a white shirt and blue shorts. The court is green with white lines on it. There is a green fence behind the man. 
+test_274,There is a man sitting on a bench. The bench is made of wood. There are a lot of windows on the side of the building. 
+test_275,A woman is standing on a tennis court playing tennis. She is wearing a white tank top and white shorts. There is a green tennis ball in front of her. 
+test_276,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_277,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_278,A black and white picture of a cat. The cat is sitting on a white table. There is a black lamp next to the cat on the wall. 
+test_279,A wooden bench is sitting on top of a green grassy area. There is a wooden fence behind the bench.  The bench has a white and black handle and is made of wood. The ground is covered with dirt and weeds.
+test_280,A black and white photo of a man and a woman. The man is wearing a black jacket and black pants. He is holding a white remote control in his hand. There is a red and green sign on the wall behind the man.
+test_281,There is a train on the tracks. The train is red and white. There are trees behind the train. 
+test_282,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_283,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black remote control in his hand. There is a red and white sign on the wall behind him. 
+test_284,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a metal fence behind the dog. 
+test_285,A black and white photo of a man and a woman sitting on a bench. The man is wearing a black jacket and black pants. He is holding a white remote control in his hand. There is a red and green sign on the bench next
+test_286,A black dog is sitting on a bench. The bench is made of wood. There is a white fence behind the dog. 
+test_287,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_288,A large airplane is flying in the sky. The plane is white and has a blue tail. There is a large white building behind the plane. 
+test_289,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_290,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_291,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_292,A man is standing on a skateboard. He is wearing a white shirt and blue shorts. There is a black and white fence behind the man. 
+test_293,A wooden bench is sitting on top of a metal railing. There is a black and white picture hanging on the wall behind the bench. 
+test_294,A black and white photo of a man and a woman sitting on a bench. The man is wearing a black jacket and black pants. There is a white wall behind the man. 
+test_295,A man in a blue shirt and blue shorts is standing on top of a white bench. The bench is made of wood. There is a black and white sign on the side of the building. 
+test_296,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_297,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_298,A large brown bear is standing on top of a rock wall. The wall is made of wood. There is a large boulder in front of the bear. 
+test_299,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_300,A black and white photo of a man and a woman sitting on a bench. The woman is wearing a blue shirt and blue jeans. She is holding a white remote control in her hand. There is a black door on the wall behind the bench
+test_301,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_302,A man in a blue shirt and blue shorts is standing on a wooden bench. He is holding a black and white frisbee in his hand. There is a white building behind the man. 
+test_303,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_304,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_305,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_306,A black and white photo of a man riding a skateboard. The man is wearing a black helmet and black pants. There is a white building behind the man. 
+test_307,A black and white dog is standing on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_308,A black and white photo of a man and a woman sitting on a bench. The man is wearing a blue shirt and blue jeans. He is holding a black remote control in his hand. There is a white wall behind the man. 
+test_309,A wooden bench is sitting on the ground. There is a black and white bird perched on top of the bench. The bird has a long black beak. 
+test_310,There is a black dog on the ground. The dog has a white collar around its neck. It is looking down at something. There are trees behind the dog. 
+test_311,A young boy is standing on a skateboard. He is wearing a white shirt and blue jeans. There is a black and white fence behind the boy. 
+test_312,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_313,A man is standing on a skateboard. He is wearing a white shirt and blue jeans. There is a black and white sign on the skate board. 
+test_314,A black and white photo of a man and a woman. The man is wearing a black jacket and black pants. He is holding a white remote control in his hand. There is a large white building behind the man. 
+test_315,There is a white bus on the street. There are people standing in front of the bus. The bus is red and white. 
+test_316,A wooden bench is sitting on the ground. There is a black and white bird perched on top of the bench. The bird has a long black beak. 
+test_317,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_318,A wooden bench is sitting on the ground. There is a white wall behind the bench. The bench has a black handle. 
+test_319,A black and white dog is sitting on a bench. The bench is made of wood. There is a white fence behind the dog. 
+test_320,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_321,There is a black and white dog laying on the ground. The dog has a white collar around its neck. There is another dog in the distance behind the dog. 
+test_322,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_323,There is a wooden table in the middle of a room. There are books on top of the table. The table is made of wood and the wood is light brown. 
+test_324,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_325,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall grass and weeds and there are trees in front of the field that have green leaves and no leaves on the ground. There is a fence
+test_326,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_327,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_328,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_329,There is a wooden table in the middle of a room. There are a lot of books on top of the table. The table is made of wood and the wood is light brown in color.
+test_330,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white wall behind the man. 
+test_331,There are two elephants standing in a field. There are trees behind the elephants. The elephants are standing on the grass. 
+test_332,A man is standing in front of a white wall. He is wearing a black shirt and black pants. There is a blue and white sign on the wall behind him. 
+test_333,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_334,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_335,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_336,A black and white photo of a man and a woman. The man is wearing a black jacket and black pants. He is holding a white remote control in his hand. There is a large white building behind the man.
+test_337,This is a bathroom. The bathroom is white. There are two sinks on the wall. One of the sinks has a white soap dispenser on top of it. On the other wall there are white tiles. 
+test_338,A man is standing on top of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_339,A large airplane is flying in the sky. The plane is white and has a blue tail. There is a large black and white building behind the plane. 
+test_340,There is a black and white striped cat laying on the ground. The cat has a white collar around its neck. There is another black cat in front of the cat. 
+test_341,A black and white striped cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_342,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall trees and a few tall grasses. There is a black fence surrounding the field and there are small bushes in front of the fence.
+test_343,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_344,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_345,A black and white picture of a man and a woman. The man is wearing a white shirt and black pants. He is holding a black remote control in his hand. There is a silver pole next to the man. 
+test_346,A black and white cat is sitting on a bench. The bench is made of wood. There is a white wall behind the cat. 
+test_347,A man is standing in front of a building. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_348,A man is standing on top of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_349,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_350,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_351,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_352,There is a white toilet in the middle of the room. There is also a black door on the wall behind the toilet. 
+test_353,There are two horses in the field. One of the horses is black and the other one is brown. There is a fence behind them. 
+test_354,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a black fence behind the bird. 
+test_355,A man is standing on top of a snowboard. He is wearing a black jacket and black pants. There is snow all around him. 
+test_356,A black and white photo of a man and a woman. The man is wearing a black shirt and black pants. He is holding a white remote control in his hand. There is a red and green sign on the wall behind the man.
+test_357,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_358,A wooden bench is sitting on the ground. There is a black and white picture hanging from the bench. The picture is on a white wall. 
+test_359,There is a sign on the pole. The sign is red and white. There are trees behind the sign. 
+test_360,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock has a white face and black hands. 
+test_361,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_362,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_363,This is an image of a building. The building is made of brick. There is a clock on the top of the building with a black face and white numbers on it. On the clock there is white writing on a white circle with black numbers
+test_364,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_365,A bathroom with white walls. There is a mirror on the wall behind the toilet. The toilet is white. 
+test_366,A black and white cat is sitting on top of a wooden table.  The table is made of wood and there is a white wall behind the cat. The cat has black eyes and a black nose.
+test_367,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_368,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_369,There is a wooden table in front of a white wall. There are a lot of books on top of the table. The table is made of wood and the wood is light brown. 
+test_370,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a metal fence behind the dog. 
+test_371,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_372,A wooden bench is sitting on the ground. There is a black and white picture hanging above the bench. The picture is on a white wall. 
+test_373,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_374,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_375,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_376,A black laptop is sitting on a desk. There is a black mouse on top of the laptop. The desk is made of wood. 
+test_377,There is a wooden bench sitting on the ground. The bench is made of wood. There are a lot of trees behind the bench. 
+test_378,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_379,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_380,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_381,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall.
+test_382,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_383,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_384,A woman is sitting on a bench. The bench is made of wood. She is wearing a white shirt and black pants. There is a black chair behind her. 
+test_385,A man is standing on a skateboard. He is wearing a white shirt and blue jeans. There is a black and white dog sitting on the ground next to him. 
+test_386,There is a red and white train on the tracks. There are trees behind the train. The train is stopped at a station. 
+test_387,A man is playing tennis on a tennis court. He is wearing a white shirt and blue shorts. The court is green and white in color. There is a green fence behind the man. 
+test_388,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_389,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_390,"A wooden bench is sitting on top of a green grassy field.  The bench has a red and white stripe down the side of the bench, and a white and blue stripe on the other side. There is a wooden fence next to the"
+test_391,A man is standing on a tennis court playing tennis. He is wearing a white shirt and blue shorts. The court is green with white lines on it. There is a green fence behind the man. 
+test_392,There is a train on the tracks. The train is red and white. There are trees behind the train. 
+test_393,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_394,A black and white striped zebra is standing on a grassy field. There is a black fence surrounding the field and there are trees in front of the fence. 
+test_395,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall behind the toilet. It is made of glass. On top of the mirror there are two white towels. Behind the towel there is another towel.
+test_396,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_397,A man is standing on a wooden bench. He is wearing a black jacket and black pants. There is a large black and white dog in front of him. 
+test_398,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_399,A black and white dog is laying on the ground. The dog has a black collar around its neck. There is a white wall behind the dog. 
+test_400,A black and white dog is standing on the ground. The dog has a black collar around its neck. There is a white fence behind the dog. 
+test_401,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_402,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_403,There is a white toilet in the bathroom. The toilet seat is white. There are white towels hanging from the wall behind the toilet. 
+test_404,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_405,A man is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_406,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_407,There is a silver train on the train tracks. There are people sitting on top of the platform. The train is red and white. 
+test_408,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_409,There is a toilet in the bathroom. The toilet is white. There is also a mirror on the wall behind the toilet. 
+test_410,There is a train on the tracks. The train is red and white. There are trees behind the train. 
+test_411,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_412,There is a black and white photo of a man. The man is wearing a white shirt and blue jeans. There is an orange and yellow sign on the wall behind him. 
+test_413,There is a white toilet in the middle of the room. There are white shelves on the wall behind the toilet. The wall is made of wood. 
+test_414,There is a wooden bench sitting on the ground. The bench is made of wood. There are two wooden chairs on either side of the bench. One chair is white and the other is black. 
+test_415,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_416,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_417,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_418,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_419,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_420,A man is standing on the sidewalk. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_421,A black and white cat is sitting on a bed. The bed is made of wood. There is a white blanket on top of the bed and a blue blanket underneath. 
+test_422,A man is playing tennis on a tennis court. He is wearing a white shirt and blue shorts. The court is green with white lines on it. There is a green fence behind the man. 
+test_423,A black and white dog is laying on the ground. The dog has a white collar around its neck. There is a black dog next to the dog. 
+test_424,A train is on the tracks. The train has a red and white stripe down the side of the train. There is a white and blue sign above the front door. 
+test_425,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_426,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_427,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind the man. 
+test_428,A man is sitting on a bench. The bench is made of wood. There is a red and white sign on the side of the building. 
+test_429,A man in a blue shirt and black pants is standing on top of a black skateboard. The man is holding a red and white Frisbee in his hand. There are trees behind the man. 
+test_430,A man is standing on a skateboard. He is wearing a white shirt and black pants. There is a black and white fence behind the man. 
+test_431,A man in a blue shirt and blue shorts is standing on a bench holding a red frisbee in his hand. He is wearing a black and white striped shirt with a white stripe down the side of the shirt. There are trees behind the
+test_432,A man is standing on a skateboard. He is wearing a black helmet and black pants. There is a white line painted on the ground behind him. 
+test_433,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_434,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white tiles. Behind the tiles there is another wall.
+test_435,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_436,A wooden bench is sitting on top of a concrete platform. There is a black and white sign above the bench. The sign is white with black writing on it. 
+test_437,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_438,There is a black and white train on the tracks. There are people sitting on top of the train. The train is yellow and black.
+test_439,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a metal fence behind the dog. 
+test_440,A wooden bench is sitting in a room. There is a white door on the wall behind the bench. The bench has a black handle on it. 
+test_441,A man is standing on a baseball field. He is wearing a blue and white uniform. There is a black helmet on his head. 
+test_442,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall behind the toilet. It is made of glass. On top of the mirror there are two white towels. One is on top and the other is
+test_443,A man is standing on top of a skateboard. He is wearing a black shirt and black pants. There is a white wall behind the man. 
+test_444,There is a white toilet in the middle of the room. There are white towels on the wall behind the toilet. The wall is made of wood. 
+test_445,A man is sitting on a bench. The bench is made of wood. There is a white building behind the man. 
+test_446,A man is standing in front of a building. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_447,"A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall trees and is covered in a thick layer of green grass and weeds. There is a black fence surrounding the field, and there are two"
+test_448,There is a wooden bench in the middle of the room. The bench is made of wood. There are a lot of books on the bench. 
+test_449,There is a wooden table in the middle of a room. There are a lot of books on top of the table. The table is made of wood and the wood is light brown in color.
+test_450,A man is standing on top of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_451,A man is standing on a wooden bench. He is wearing a white shirt and blue jeans. There is a black and white clock on the bench next to him. 
+test_452,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_453,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_454,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_455,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_456,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building in the background.
+test_457,This is an image of a building. The building is made of brick. There is a clock on the top of the building with a black face and white numbers on it. On the clock there is white writing on a white circle with black numbers
+test_458,A wooden bench is sitting on top of a metal railing. There is a black and white picture hanging on the wall behind the bench. 
+test_459,A black and white picture of a man and a dog. The man is wearing a white shirt and black pants. There is a black dog in front of the man. 
+test_460,This is an image of a building. The building is made of brick. There is a clock on the top of the building that is black and white. It has a white face and black numbers on it. 
+test_461,A man is standing in front of a white wall. He is wearing a blue shirt and blue jeans. There is a black and white sign on the wall behind him. 
+test_462,A black and white cat is sitting on a bed. The bed is made of wood. There is a white blanket on the bed and a blue and green bedspread. 
+test_463,There is a red and white bus on the street. The bus is white and blue. There are trees behind the bus. 
+test_464,There is a clock on the wall. The clock is black and white. It has a white face and a black face. There are two clocks on each side of the clock. One is red and the other one is blue.
+test_465,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_466,A wooden bench is sitting on top of a wooden table. There is a black and white picture hanging on the wall behind the bench. 
+test_467,A man is standing in front of a mirror. He is wearing a black shirt and black pants. There is a white wall behind the man. 
+test_468,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a red and black handle. 
+test_469,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a green tennis ball in front of him. 
+test_470,A black and white photo of a man riding a motorcycle. The man is wearing a black helmet and black pants. There is a white building behind the man. 
+test_471,A black and white cat is sitting on a bench. The bench is made of wood. There is a white wall behind the cat. 
+test_472,There is a man in a blue shirt and blue jeans standing in front of a white table. There is an orange table cloth on the table behind the man. 
+test_473,A large black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a large white building behind the bird. 
+test_474,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white fence behind the man. 
+test_475,A black and white dog is standing on the ground. The dog has a black collar around its neck. There is a white fence behind the dog. 
+test_476,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_477,There is a train on the tracks. The train is red and white. There are trees behind the train. 
+test_478,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. He is holding a white surfboard in his hand. There is a black fence behind the man. 
+test_479,There is a train on the tracks. The train is red and white. There are people sitting on top of the train. One person is wearing a blue jacket and blue pants. 
+test_480,There is a bed in the room. The bed has a white blanket on it. There are two pillows on top of the bed. 
+test_481,This is an image of a kitchen. The kitchen is made of wood. There is a microwave on top of the counter top.  The microwave is white and black. It is on a white wall. On the wall there are a bunch of
+test_482,There is a wooden bench sitting on the ground. The bench is made of wood. There is an orange and black umbrella on top of the bench. 
+test_483,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building behind the man with many windows on it.
+test_484,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_485,A large white and blue airplane is flying in the air. There is a large black and white building behind the airplane. 
+test_486,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels. One is on top and the other is
+test_487,A black and white picture of a dog. The dog has a white collar around its neck. There is a red and black umbrella over the dog's head. 
+test_488,"A man in a blue shirt and blue shorts is standing on top of a white surfboard.  The man is wearing a black and white striped shirt, blue jeans, and a pair of black sneakers. There is a large wave in the water"
+test_489,There is a wooden table in front of a white wall. There is an orange table cloth on top of the table. The table is made of wood and has a black and white picture on it. 
+test_490,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_491,This is an image of a bathroom. The bathroom is white. There is a white toilet in the middle of the room. A white sink is next to the toilet. Two white towels are sitting on the wall. One is on a towel rack
+test_492,A large brown bear is standing on the ground. The bear has a black nose and black eyes. There is a large rock wall behind the bear. 
+test_493,A wooden bench is sitting on top of a wooden floor. There is a white wall behind the bench. 
+test_494,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_495,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building in the background.
+test_496,There is a wooden table in front of a white wall. There are books and papers on top of the table. The table is made of wood. 
+test_497,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a black door on the front of the bench and a white door behind it. 
+test_498,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_499,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_500,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_501,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_502,There is a clock on the side of the building. The clock is black and white. There are two clocks on top of it. One is white and the other one is blue. 
+test_503,A wooden bench is sitting on the ground. There is a black and white picture hanging from the wall above the bench. The picture is of a man in a blue shirt and black pants. 
+test_504,There is a man in a blue shirt and blue jeans standing in front of a white wall. The man is holding a black remote control in his hand. There is an orange and white sign on the wall behind the man. 
+test_505,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_506,This is a bathroom. The bathroom is white. There are two sinks on the wall. One of the sinks is black and the other sink is silver. Both sinks are made of metal. A mirror is hanging on a wall above the sink.
+test_507,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_508,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_509,A man is playing tennis on a tennis court. He is wearing a blue and white striped shirt and blue shorts. The court is green with white lines on it. There is a green fence behind the man. 
+test_510,A black and white dog is laying on the ground. The dog has a black collar around its neck. There is a brown dog next to the black dog. 
+test_511,A man is standing on top of a white surfboard. He is wearing a blue shirt and blue shorts. There is a black and white board in front of him. 
+test_512,A black and white photo of a man and a woman sitting on a bench. The man is wearing a white shirt and blue jeans. He is holding a black cell phone to his ear. There is a silver pole next to the bench with a
+test_513,A man is standing on a baseball field. He is wearing a blue and white uniform. There is a black helmet on his head. 
+test_514,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_515,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_516,A man is standing on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_517,This is an image of an animal. The animal is a giraffe. There are two giraffes in the image. One of them is looking down at the camera and the other one is standing on the ground. Both of the animals are
+test_518,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_519,A man is standing in front of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_520,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_521,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_522,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a green tennis ball in front of him. 
+test_523,A woman is sitting on a bench. The bench is made of wood. She is wearing a white shirt and blue jeans. There is a black and white dog sitting in front of her. 
+test_524,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_525,A black and white striped cat is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_526,A black and white cat is laying on a bed. The bed is made of wood. There is a white blanket on top of the bed and a black headboard. 
+test_527,A woman is sitting on a bench. The bench is made of wood. She is wearing a white shirt and black pants. There is a black and white toilet in front of her. 
+test_528,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_529,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_530,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_531,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_532,There is a white toilet in the middle of the room. There are two white sinks on the wall next to the toilet. The floor is made of tiles. 
+test_533,There is a wooden table in the middle of a room. There are a lot of books on top of the table. The table is made of wood and the wood is light brown. 
+test_534,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_535,There is a white bus on the street. There are people standing in front of the bus. The bus is red and white. 
+test_536,There is a black and white striped boat in the water. The water is calm and calm. There are small waves on the side of the boat. 
+test_537,A black and white photo of a man and a woman. The man is wearing a white shirt and black pants. He is holding a black remote control in his hand. There is a red and green sign on the wall behind the man.
+test_538,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_539,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_540,A black and white striped giraffe is standing in a field. There is a fence behind the giraffes.  There are trees in front of the fence.
+test_541,There is a wooden table in front of a white wall. There are books on top of the table. The books are white and have a black cover on them. 
+test_542,A large brown bear is standing on top of a rock wall. The wall is made of wood. There is a large boulder in front of the bear. 
+test_543,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a metal fence behind the bird. 
+test_544,There is a black and white photo of a horse. The horse is standing on a dirt road. There are trees in the background. 
+test_545,A black and white cat is sitting on top of a white desk. The desk is made of wood. There is a black laptop on the desk next to the cat. 
+test_546,A wooden bench sits in a room. The bench is made of wood. There is a white wall behind the bench. 
+test_547,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_548,A man is standing on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_549,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_550,A man is playing tennis on a tennis court. He is wearing a blue and white shirt and blue shorts. The court is green with white lines on it. There is a green fence behind the man. 
+test_551,A man in a blue shirt and blue shorts is standing on a wooden bench. He is holding a black and white frisbee in his hand. There is a white building behind the man. 
+test_552,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_553,A wooden bench is sitting on the ground. There is a black and white picture hanging from the wall above the bench. The picture is of a man in a blue shirt and blue pants. 
+test_554,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white fence behind the man. 
+test_555,A man is sitting at a table. The table is made of wood. There is a laptop on top of the table with a black keyboard on it. 
+test_556,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall trees and is covered in a thick layer of green grass and weeds. There is a black fence in front of the field and there are
+test_557,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_558,A man is sitting on a bench. He is wearing a black jacket and black pants. There is a white wall behind him. 
+test_559,A black and white striped cat is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_560,This is an image of a building. The building is made of brick. There is a clock on the top of the building with a black face and white numbers on it.  The clock has a white face with black hands and black numbers.
+test_561,There is a white toilet in the corner of the room. There is also a black and white mirror on the wall behind the toilet. 
+test_562,A man in a blue shirt and black pants is standing on a wooden bench. There is a black and white picture hanging on the wall behind him. The bench is made of wood. 
+test_563,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a black fence behind the bird. 
+test_564,A wooden bench sits in a room. The bench is made of wood. There is a white wall behind the bench. 
+test_565,A black and white cat is sitting on top of a white toilet. The toilet seat is white and the lid is open. There is a black handle on the side of the toilet and there is an orange handle next to it. 
+test_566,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock is black with white numbers on it. 
+test_567,A black and white truck is driving down a road. There is a red stop sign on the side of the truck. The road is made of concrete and is surrounded by trees. 
+test_568,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_569,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_570,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_571,A black and white photo of a man and a woman. The man is wearing a white shirt and black pants. He is holding a black remote control in his hand. There is a red and green sign on the wall behind the man.
+test_572,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_573,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_574,A black and white dog is standing on the ground. The dog has a black collar around its neck. There is a white fence behind the dog. 
+test_575,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_576,A wooden bench is sitting on top of a metal railing. There is a black and white picture hanging on the wall behind the bench. 
+test_577,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_578,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_579,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_580,A black and white striped giraffe is standing next to a white fence. The fence is made of metal bars. There is a large tree in front of the fence with a green leaf on it. 
+test_581,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_582,There are three giraffes standing in a field. There are trees behind them. The field is covered with grass and weeds. 
+test_583,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_584,A wooden bench sits in the middle of a field of grass. The bench is made of wood. There is a black fence behind the bench. 
+test_585,A black and white bird is standing on top of a large rock wall. The bird has a long black beak and a black nose. There is a small black bird in front of the bird. 
+test_586,There is a wooden bench on the side of the street. The bench is made of wood. There are trees behind the bench. 
+test_587,There is a black and white dog on the ground. The dog has a white collar around its neck. It is looking up at the camera. There is another black dog in the distance. 
+test_588,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_589,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_590,There is a black and white train on the tracks. The train is red and blue. There are trees behind the train. 
+test_591,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_592,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels on a white towel rack. Next to the
+test_593,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_594,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_595,A man is standing in front of a building. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_596,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_597,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_598,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_599,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall trees and is covered in a thick layer of green grass and weeds. There is a black fence surrounding the field and there are small bushes
+test_600,A wooden bench is sitting on the ground. There is a black and white picture hanging above the bench. The picture is of a man and a dog. Both dogs are brown and have white faces. 
+test_601,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_602,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_603,This is an image of a train. The train is blue and white. There is a yellow line on the side of the train with yellow lines on it. On the left side there are two red lines. Behind the lines there is another train
+test_604,A bathroom with white walls. There is a white sink with a silver faucet on top of it. On the other side of the sink there is white soap dispenser. 
+test_605,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_606,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_607,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_608,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. He is wearing a white shirt and blue jeans.
+test_609,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of the man. 
+test_610,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_611,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_612,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_613,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a wooden handle on it. 
+test_614,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_615,A man is standing on a skateboard. He is wearing a black helmet and black pants. There is a white building behind him. 
+test_616,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_617,There is a black and white picture of a dog. The dog is wearing a blue shirt and blue pants. There is also a white and black dog in front of the picture. 
+test_618,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_619,A black and white photo of a man and a woman sitting on a bench. The man is wearing a white shirt and black pants. He is holding a cell phone to his ear. There is a black door on the wall behind the man.
+test_620,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle on it. 
+test_621,A wooden bench is sitting in a room. There is a white wall behind the bench. The bench has a black handle and is made of wood. 
+test_622,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_623,There is a large white building with many windows on it. There are two men standing in front of the building. The man on the left is wearing a blue shirt and blue jeans. He is holding a white remote control in his hand. 
+test_624,A black and white photo of a man riding a skateboard. The man is wearing a black helmet and black pants. There is a white building behind the man. 
+test_625,A man is standing on top of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_626,A man in a blue shirt and blue shorts is standing on a wooden bench. He is holding a black and white frisbee in his hand. The bench is made of wood. There is a white building behind the man. 
+test_627,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_628,A wooden bench is sitting on top of a metal railing. There is a black and white picture hanging on the wall behind the bench. 
+test_629,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_630,A large black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a white and black fence behind the bird. 
+test_631,A black and white dog is sitting on top of a white bench. The bench is made of wood. There is a black fence behind the dog. 
+test_632,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_633,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white face and black writing on it. 
+test_634,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_635,A black and white dog is standing on the grass. The dog has a white collar around its neck. There is a tree behind the dog. 
+test_636,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_637,A black and white cat is sitting on a bed. The bed is made of wood. There is a white blanket on top of the bed and a black headboard. 
+test_638,A black and white dog is standing on the ground. The dog has a white collar around its neck. There is a red and black umbrella behind the dog. 
+test_639,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels. One is on top and the other is
+test_640,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_641,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_642,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels. One is on top and the other is
+test_643,A black and white photo of a man and a woman sitting on a bench. The man is wearing a black jacket and black pants. He is holding a white remote control in his hand. There is a large white building behind the man.
+test_644,A large airplane is flying in the sky. The plane is white and has a blue tail. There is a large white building behind the plane. 
+test_645,A black and white dog is sitting on a bench. The bench is made of wood. There is a white fence behind the dog. 
+test_646,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_647,This is an image of a cat. The cat is black and white. It is sitting on a white chair. There is a small window on the side of the chair that is open and has a black curtain hanging from it. 
+test_648,A wooden bench is sitting on top of a concrete platform. There is a black and white clock on the bench. The clock has a white face with black numbers on it. 
+test_649,A man is standing on a skateboard. He is wearing a black jacket and black pants. There is a white fence behind the man. 
+test_650,A wooden bench is sitting on the ground. There is a white wall behind the bench. The bench has a black handle. 
+test_651,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall grass and weeds and there is a fence surrounding the field with a yellow and black line. There is another fence behind the fence and a
+test_652,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_653,A man is sitting on a bench. The bench is made of wood. There is a black and white sign on the side of the building. 
+test_654,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_655,A wooden bench sits in the middle of a grassy field.  The bench is made of wood and has a black and white stripe down the side of the bench. There is a white and blue sign on the back of it. The grass
+test_656,A black and white bird is flying in the air. The bird has a long black beak. There is a white building behind the bird. 
+test_657,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_658,This is an image of a building. The building is made of brick. There is a clock on top of the building with a black face and white numbers on it. It has black hands and a white face. On the clock face there is
+test_659,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. There is a black dog in front of the man. 
+test_660,The image is of a clock. The clock is white and has a black face. There is a silver face on the clock and there are black numbers on top of it. 
+test_661,This is an image of a building. The building is made of brick. There is a clock on the top of the building with a black face and white numbers on it. On the clock there is white writing on a white circle with black numbers
+test_662,A wooden bench is sitting on the ground. There is a white toilet in front of the bench. The toilet seat is made of wood. 
+test_663,A wooden bench sits in a room. The bench is made of wood. There is a white wall behind the bench. 
+test_664,A man is standing in front of a building. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_665,This is an image of a bathroom. The bathroom is white. There is a white toilet in the middle of the room. A white sink is next to the toilet. Two white towels are sitting on the wall above the sink. 
+test_666,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall trees and is covered in a thick layer of green grass and weeds. There is a black fence in front of the fence and there is
+test_667,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building in the background.
+test_668,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_669,A kitchen with a white counter top and white cabinets. There is a black microwave on top of the counter. The cabinets are made of wood. 
+test_670,A black and white polar bear is standing on top of a rock wall. The wall is made of concrete. There is a black pole next to the bear. 
+test_671,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_672,A man is standing on a skateboard. He is wearing a white shirt and blue shorts. There is a black and white dog in front of him. 
+test_673,A wooden bench is sitting on top of a brick building. The bench has a black handle and a white handle. There is a red and white sign on the front of the bench. 
+test_674,A wooden bench is sitting in a room. There is a white wall behind the bench.  The bench has a black handle and a red and white handle. The floor is made of wood and there are white tiles on the floor.
+test_675,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_676,A man is standing on a skateboard. He is wearing a black helmet and black pants. There is a white building behind him. 
+test_677,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_678,This is an image of a man. The man is wearing a white shirt and blue jeans. He is standing on a wooden bench. There is a black and white dog sitting on the bench next to him. 
+test_679,A black and white dog is laying on the ground. The dog has a white collar around its neck. There is a black dog next to the dog. 
+test_680,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_681,There is a wooden bench in the middle of a field. The bench is made of wood. There are trees on the other side of the bench. 
+test_682,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a red and black cat sitting on top of the man's head.
+test_683,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_684,A wooden bench is sitting on top of a hill. There is a white building behind the bench.  There are trees in front of the building.
+test_685,A man is standing in front of a mirror. He is wearing a black shirt and black pants. There is a white wall behind him. 
+test_686,A man is standing on a sidewalk. He is wearing a black jacket and black pants. There is a red and white sign on the sidewalk next to the man. 
+test_687,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_688,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_689,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_690,The image is of a large white building. The building is made of brick. There is a clock on the front of the building with a white face and black numbers on it.  The clock has a black face with black hands and white numbers
+test_691,There is a wooden table in front of a white wall. There are books on top of the table. 
+test_692,A large black bear is standing on the ground. The bear has a long black nose and black eyes. There is a large rock wall behind the bear. 
+test_693,A man is standing on a skateboard. He is wearing a white shirt and blue jeans. There is a black and white sign above his head. 
+test_694,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. There is a black dog in front of the man. 
+test_695,A red and white bus is driving down the street. There is a large white building behind the bus.  There are trees in front of the building.
+test_696,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_697,A black and white photo of a man and a dog. The man is wearing a white shirt and blue jeans. There is a black dog in front of the man. 
+test_698,A man is standing in front of a white wall. He is wearing a blue shirt and blue jeans. There is a black and white picture hanging on the wall behind him. 
+test_699,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_700,A wooden bench sits in a field. The bench is made of wood. There is a tree in front of the bench. 
+test_701,A man is standing on a wooden bench. The bench is made of wood. There is a white building behind the man. 
+test_702,This is an image of a cat. The cat is black and white and has a white face and a black tail. There is a large window on the wall behind the cat and there are two small windows on either side of the window. 
+test_703,The image is of a large body of water. The water appears to be calm and calm. There are two boats in the water with people on them. One boat is white and the other one is blue and has a black man on it.
+test_704,This is an image of a building. The building is made of brick. There is a clock on the top of the building that is black and white. It has a white face and black numbers on it. 
+test_705,There is a black and white photo of a dog. The dog is wearing a blue shirt and blue pants. There is an orange and yellow sign on the side of the building. 
+test_706,A large brown bear is standing on the ground. The bear has a black nose and black eyes. There is a tree behind the bear. 
+test_707,A black and white dog is sitting on a bench. The bench is made of wood. There is a white fence behind the dog. 
+test_708,A black and white cat is sitting on top of a white toilet.  The toilet seat is white and the lid is closed. The cat has a black nose and black eyes. There is a small white bowl on the wall behind the cat.
+test_709,A man is standing on a bench. He is wearing a blue shirt and blue shorts. There is a black and white picture hanging on the wall behind him. 
+test_710,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_711,A man is standing in front of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_712,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_713,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_714,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_715,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_716,There is a man in a white shirt and blue jeans standing in front of a large white building. There are two large windows on the building behind the man. The man is wearing a black helmet and black gloves. 
+test_717,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_718,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_719,This is an image of a cat. The cat is black and white. It is sitting on a white chair. There is a black lamp next to the chair that is turned on. 
+test_720,A man in a blue shirt and black pants is standing on top of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_721,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_722,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_723,There is a white bus on the street. There are people sitting on top of the bus. The bus is red and white. 
+test_724,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man.
+test_725,A black and white cat is laying on a bed. The bed is made of wood. There is a white blanket on top of the bed and a black headboard. 
+test_726,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock is black with white numbers on it. 
+test_727,A black and white photo of a man and a woman sitting on a bench. The man is wearing a black jacket and black pants. He is holding a white remote control in his hand. There is a large white building behind the man.
+test_728,A man is standing on the side of the road. He is wearing a black jacket and black pants. There is a white truck behind him. 
+test_729,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_730,A wooden bench is sitting on the ground. There is a black and white picture hanging above the bench. The picture is of a man and a dog. Both dogs are brown and have white faces. 
+test_731,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock has a white face and black hands. 
+test_732,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_733,A wooden bench is sitting in a wooded area.  The bench has a black handle and a red and white stripe down the side of the bench. There is a white and blue sign on the front of it. The sign is on a
+test_734,A black and white photo of a man and a woman sitting on a bench. The bench is made of wood. There is a white building behind the woman. 
+test_735,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_736,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_737,A man is standing in front of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_738,A man is sitting on a bench. The bench is made of wood. There is a white door on the door. A black door is behind the man. 
+test_739,There is a black and white picture of a dog. The dog is wearing a blue shirt and blue pants. There is also a red and black dog on the other side of the picture.
+test_740,There is a white toilet in the middle of the room. There is also a black toilet next to the wall. The wall behind the toilet is made of wood. 
+test_741,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_742,The image is of a man and a dog. The man is wearing a blue shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a white building behind the man. 
+test_743,A wooden bench is sitting on top of a wooden fence. There is a black and white picture hanging on the wall above the bench. 
+test_744,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_745,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a green tennis ball in front of him. 
+test_746,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_747,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_748,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_749,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_750,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_751,A wooden bench is sitting on top of a stone wall. There is a clock on the side of the bench. The clock is black with white numbers on it. 
+test_752,A man is standing on a skateboard. He is wearing a black helmet and black pants. There is a white building behind him. 
+test_753,A black and white photo of a man and a woman sitting on a bench. The man is wearing a blue shirt and blue jeans. He is holding a black remote control in his hand. There is a white wall behind the man. 
+test_754,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_755,A black and white photo of a man and a woman sitting on a bench. The man is wearing a blue shirt and blue jeans. He is holding a black remote control in his hand. There is a white wall behind the man. 
+test_756,A wooden bench is sitting on the ground. There is a wooden fence behind the bench.  The fence is made of wood. The bench has a black and white stripe down the side of it.
+test_757,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_758,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_759,A man in a blue shirt and black pants is standing on a wooden bench. He is holding a white frisbee in his hand. The bench is made of wood. There is a black fence behind the man. 
+test_760,This is an image of a building. The building is made of brick. There is a clock on the top of the building with a black face and white numbers on it.  The clock has a white face with black numbers and black hands.
+test_761,A black and white train is on the tracks. The tracks are made of concrete. There is a black pole with a white sign on it. 
+test_762,A wooden bench is sitting on the ground. There is a red and white fire hydrant on top of the bench. The bench has a black handle. 
+test_763,A wooden bench is sitting on top of a white bench. There is a black and white picture hanging on the wall. The bench has a red and black design on it. 
+test_764,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_765,A man is standing on a skateboard. He is wearing a blue shirt and blue shorts. There is a white fence behind the man. 
+test_766,A wooden bench is sitting on the ground. There is a black and white picture hanging from the wall above the bench. The picture is of a man and a dog. Both dogs are brown and have white faces. 
+test_767,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_768,A black and white picture of a man standing on a skateboard. The man is wearing a black helmet. There is a white sign on the side of the man. 
+test_769,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_770,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_771,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_772,A wooden bench is sitting on top of a metal railing. There is a black and white picture hanging on the wall behind the bench. 
+test_773,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_774,A man is standing on a tennis court playing tennis. He is wearing a white shirt and blue shorts. There is a black and white net in front of the man. 
+test_775,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a black fence behind the dog. 
+test_776,There is a wooden table in the middle of a room. There are a lot of books on top of the table. The table is made of wood and the wood is light brown. 
+test_777,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. There is a black dog in front of the man. 
+test_778,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a red and black handle. 
+test_779,A man in a blue shirt and blue jeans is standing in front of a white wall. There is a black and white clock on the wall behind the man. 
+test_780,There is a sign on the side of the building. The sign is black and white. There are a lot of trees in the background.
+test_781,A black and white bird is sitting on top of a white bench. The bench is made of wood. There is a black metal fence behind the bird. 
+test_782,There is a silver train on the tracks. The train is blue and white. There are trees behind the train. 
+test_783,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_784,A black and white cat is sitting on a bench. The bench is made of wood. There is a white fence behind the cat. 
+test_785,A wooden bench sits in a room. The bench is made of wood. There is a white wall behind the bench. 
+test_786,A black and white dog is standing on the ground. The dog has a black collar around its neck. There is a white fence behind the dog. 
+test_787,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_788,A wooden bench is sitting in a wooded area.  The bench has a black handle and is made of wood and metal. There is a white wall behind the bench and a blue and white fence behind it.
+test_789,A large brown bear is standing on top of a rock wall. The wall is made of wood. There is a small brown building behind the bear. 
+test_790,A wooden bench is sitting on top of a paved road. There is a red fire hydrant on the ground next to the bench. The road is paved and has white lines painted on it. 
+test_791,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a red and black handle. 
+test_792,A woman is standing on a tennis court playing tennis. She is wearing a white tank top and white shorts. There is a green tennis ball in front of her. 
+test_793,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_794,There is a black and white train on the tracks. The train is red and blue. There are trees behind the train. 
+test_795,There is a white table in a room. There are two chairs in front of the table. One chair is white and the other is black. The table is made of wood. 
+test_796,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_797,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. He is wearing a blue shirt and blue jeans.
+test_798,A man is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_799,There is a train on the tracks. The train is red and white. There are trees behind the train. 
+test_800,There is a wooden table in front of a white wall. There are books and papers on top of the table. The table is made of wood. 
+test_801,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_802,A white bowl is sitting on top of a white table. There is a silver fork on the table next to the bowl. The table is made of wood. 
+test_803,There is a wooden bench in the middle of a field. There are trees in front of the bench. The bench is made of wood. 
+test_804,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_805,A man is standing in front of a white wall. He is wearing a black shirt and black pants. There is a silver chain link fence behind the man. 
+test_806,A man is standing on a skateboard. He is wearing a white shirt and blue jeans. There is a black and white dog on the skate board. 
+test_807,There is a toilet in the bathroom. The toilet is white. There is also a mirror on the wall behind the toilet. 
+test_808,There is a red and white train on the tracks. The train is white and has a blue stripe down the side of the train. There are trees in the distance. 
+test_809,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock is black with white numbers on it. 
+test_810,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_811,A large brown bear is standing on top of a rock wall. The wall is made of stone. There is a black fence behind the bear. 
+test_812,There is a red and white bus on the street. The bus is white and blue. There are trees behind the bus. 
+test_813,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a green tennis ball in front of him. 
+test_814,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall behind the toilet. It is made of glass. On top of the mirror there are two white towels. Behind the towel there is another towel.
+test_815,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_816,A man in a blue shirt and black pants is standing on a wooden bench. There is a black and white cat sitting on the bench next to the man. 
+test_817,A man is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_818,There is a wooden table in front of a white wall. There are a lot of books on top of the table. The table is made of wood and has a black and white table cloth on it.
+test_819,A black and white dog is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_820,There is a white toilet in the middle of the room. There are white shelves on the wall behind the toilet. The wall is made of wood. 
+test_821,"A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall trees and is covered in a thick layer of green grass and weeds. There is a black fence surrounding the field, and there are two"
+test_822,A bathroom with white walls. There is a mirror on the wall above the toilet. The toilet is white and has a black handle. On the other side of the bathroom there are white tiles. 
+test_823,A black and white picture of a man and a woman. The man is wearing a white shirt and black pants. He is holding a black remote control in his hand. There is a red and yellow fire hydrant in front of the man.
+test_824,A large black bear is standing on top of a wooden bench. The bench is made of wood. There is a white fence behind the bear. 
+test_825,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_826,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_827,A man is standing on a skateboard. He is wearing a black helmet and black pants. There is a white building behind him. 
+test_828,A man is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the man. 
+test_829,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall behind the toilet. It is made of glass. On top of the mirror there is another mirror with a white frame. Next to the glass there
+test_830,A man in a blue shirt and blue shorts is standing on a skateboard. The man is wearing a black and white striped shirt. There is a white fence behind the man. 
+test_831,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_832,A black and white dog is laying on the ground. The dog has a white collar around its neck. There is a black dog next to the dog. 
+test_833,There is a wooden table in front of a white wall. There are books and papers on top of the table. The table is made of wood. 
+test_834,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_835,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building behind the man with a clock on it. 
+test_836,There is a white toilet in the middle of a room. The toilet is white and has a black handle. There is also a mirror on the wall behind the toilet. 
+test_837,A black and white cat is laying on a bed. The bed is made of wood. There is a white blanket on top of the bed and a blue blanket next to it. 
+test_838,There is a small boat in the water. The boat is blue and white. There are two people on the boat. One of the people is wearing a blue shirt and blue shorts. 
+test_839,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_840,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_841,A man is standing on a bench holding a white frisbee. The bench is made of wood. There is a black fence behind the bench. 
+test_842,A man is sitting on a bench. The bench is made of wood. There is a black fence behind the man. 
+test_843,A man in a blue shirt and blue shorts is standing on a wooden bench. He is holding a black and white frisbee in his hand. There is a white wall behind the man. 
+test_844,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_845,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_846,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_847,A man in a white shirt and black pants is standing in front of a black and white television. There is a large white building behind the man. 
+test_848,A black and white dog is standing on a wooden bench. The bench is made of wood. There is a white fence behind the dog. 
+test_849,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall. 
+test_850,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_851,A wooden bench is sitting on the ground. There is a black and white bird perched on top of the bench. The bird has a long black beak. 
+test_852,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_853,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. He is holding a black remote control in his hand. There is a white building behind the man. 
+test_854,There is a clock on the side of the building. The clock is black and white. There are two clocks on each side. One is white and the other one is red and black. 
+test_855,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. He is holding a white remote control in his hand. There is a black fence behind the man. 
+test_856,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. 
+test_857,A little boy is standing on a wooden bench. He is wearing a blue shirt and blue shorts. There is a black and white dog sitting on the bench behind him. 
+test_858,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_859,A wooden bench is sitting in a room. There is a wooden table in front of the bench. The bench has a black and white picture on it. 
+test_860,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_861,A man is standing on top of a skateboard. He is wearing a blue shirt and blue shorts. There is a black and white picture hanging on the wall behind him. 
+test_862,A young boy is standing on a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the boy. 
+test_863,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there are two white towels. One is on top and the other is
+test_864,A wooden bench is sitting on the ground. There is a black and white picture hanging from the top of the bench. The picture is of a man and a dog. Both dogs are brown and have white faces. 
+test_865,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_866,A man in a blue shirt and blue shorts is standing in front of a white wall. The man is holding a black and white baseball bat in his hand. There is a large white building behind the man.
+test_867,A wooden bench is sitting on a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_868,A wooden bench is sitting on top of a wooden fence. There is a black and white picture hanging on the wall above the bench. 
+test_869,This is an image of a bathroom. The bathroom is white. There is a mirror on the wall above the toilet. It is made of glass. On top of the mirror there is another mirror with a white frame. Next to the other mirror
+test_870,A man in a blue shirt and black pants is standing on top of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_871,There are two horses in the field. One of the horses is black and the other one is white. There is a fence behind the horse. 
+test_872,A black and white cat is sitting on top of a wooden table.  The table is made of wood and there is a white wall behind the cat. The cat's fur is light brown and it is resting on the table with its head resting
+test_873,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind the man. 
+test_874,There is a building with a clock on top of it. The clock is black and white. There are many windows on the building. 
+test_875,A wooden bench is sitting on top of a bench. There is a black and white picture hanging on the wall. The bench has a white handle. 
+test_876,A young boy is sitting on a bench. The bench is made of wood. There is a white wall behind the boy. 
+test_877,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_878,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind him. He is wearing a white shirt and blue jeans.
+test_879,A man is sitting on a bench. The bench is made of wood. There is a white building behind the man. 
+test_880,A man is standing on top of a skateboard. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_881,There is a red and white sign on the side of the building. The sign is on top of a white pole. There are a lot of trees in the background. 
+test_882,A man is standing on a skateboard. He is wearing a white shirt and black pants. There is a red and white sign on the side of the man. 
+test_883,A black and white bird is standing on top of a large metal fence.  The bird has a long black beak and is wearing a black hat and black pants. The fence is made of metal and there is a metal pole next to the
+test_884,A black and white picture of a man and a dog. The man is wearing a black jacket and black pants. There is a white dog on the ground next to the man. 
+test_885,This is a bathroom. The bathroom is white. There are two sinks on the wall. One of the sinks has a white soap dispenser on top of it. On the other wall there are white tiles. 
+test_886,A black and white photo of a man and a dog. The man is wearing a blue shirt and blue jeans. He is holding a black remote control in his hand. There is a white building behind the man. 
+test_887,A wooden bench is sitting on top of a metal railing. There is a black and white bird perched on the bench. The bird is wearing a red and black striped shirt and blue jeans. 
+test_888,A man is standing on a baseball field. He is wearing a blue and white uniform. There is a black helmet on his head. 
+test_889,There is a wooden bench in the middle of the room. The bench is made of wood. There are two windows on the wall behind the bench. 
+test_890,A wooden bench is sitting on the ground. There is a black and white bird perched on top of the bench. The bird has a long black beak. 
+test_891,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_892,There is a white toilet in the corner of the room. There are white shelves on the wall behind the toilet. The wall is made of wood. 
+test_893,"There is a black and white photo of a man sitting on a bench. The bench is made of wood. There is also a white and blue sign on the side of the bench that says, ""On the left side there is an orange and"
+test_894,A black and white dog is standing on top of a wooden bench. The bench is made of wood. There is a white wall behind the dog. 
+test_895,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_896,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_897,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_898,This is an image of a toilet. The toilet is white. There is a black handle on the side of the toilet that is open. It has a white toilet lid on it. 
+test_899,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_900,A man is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_901,There is a red and white train on the tracks. The train is yellow and black. There are trees behind the train. 
+test_902,A man is sitting on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_903,A black and white bird is standing on top of a wooden bench. The bench is made of wood. There is a black fence behind the bird. 
+test_904,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a silver chain link fence behind the cat. 
+test_905,A man in a blue shirt and blue shorts is holding a black and white frisbee in his hand. There is a white wall behind the man. 
+test_906,This is an image of an animal. The animal is a giraffe. There are two giraffes in the image. One of them is looking down at the camera. It is dark brown and has a long neck. 
+test_907,A man in a blue shirt and blue jeans is standing in front of a white wall. The man is holding a black and white frisbee in his hand. There is a large white building behind the man. 
+test_908,A large brown bear is standing on top of a rock wall. The wall is made of stone. There is a large boulder in front of the bear. 
+test_909,A man is sitting on a wooden bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_910,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a black and white net in front of him. 
+test_911,A black and white cat is sitting on top of a wooden table. The table is made of wood. There is a white lamp next to the cat. 
+test_912,A man is standing on top of a wooden bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_913,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building behind the man and there are many windows on the
+test_914,A man is sitting on a bench. The bench is made of wood. There is a silver chain link fence behind the man. 
+test_915,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_916,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_917,A black and white striped zebra is standing on a grassy field.  The field is surrounded by tall grass and weeds. There is a fence surrounding the field and there are trees in the distance behind the fence. The grass is green and
+test_918,A man is standing on a tennis court. He is wearing a white shirt and blue shorts. There is a green tennis ball in front of him. 
+test_919,A black and white cat is sitting on top of a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_920,A man is standing in front of a building. He is wearing a white shirt and blue jeans. There is a red and white sign on the building behind him. 
+test_921,This is an image of a man. The man is wearing a white shirt and blue jeans. He is holding a black and white frisbee in his hand. There is a large white building behind the man with many windows on it.
+test_922,A man is standing on a bench. The bench is made of wood. There is a black and white picture hanging on the wall behind the man. 
+test_923,A black and white picture of a man and a woman. The man is wearing a white shirt and black pants. He is holding a black remote control in his hand. There is a red and green sign on the wall behind the man.
+test_924,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white fence behind the cat. 
+test_925,A black and white dog is sitting on top of a wooden bench. The bench is made of wood. There is a metal fence behind the dog. 
+test_926,A wooden bench is sitting on the ground. There is a black and white clock on top of the bench. The clock is black with white numbers on it. 
+test_927,A large brown bear is standing on the ground. The bear has a black nose and black eyes. There is a tree behind the bear. 
+test_928,A man is standing on top of a white surfboard. He is wearing a blue shirt and blue shorts. There is a large wave in the water behind him. 

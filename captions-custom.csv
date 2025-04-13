@@ -1,0 +1,929 @@
+Filename,Caption
+test_1,This is an image of a street. The street is very busy with traffic. There is a large white building with a clock on the top of it. This clock has a white face and black numbers. 
+test_2,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_3,A bed is in the corner of the room. The bed has a white blanket on it. There is a window on the wall behind the bed. 
+test_4,There is a train on the tracks. The train is yellow and blue. There is an orange pole with a sign on it. 
+test_5,"This is an image of a bus. The bus is white with a red stripe down the side of it. There is a blue sign on the front of the bus with the word ""Birmingham"" written on it in white lettering. "
+test_6,This is a picture of a house. The house is made of wood. There is grass on the ground. the grass is green and brown. 
+test_7,A man is sitting in a chair. He is wearing a white shirt. There is a large window behind the man. 
+test_8,A man is riding his bike down the street. He is wearing a black jacket and black pants. There is a red stop sign on the side of the road. 
+test_9,This is a picture of a computer. The computer is sitting on a black desk. There are buttons on the computer that are black and white. One of the buttons is red and the other button is green. 
+test_10,The image is of a woman in a wedding dress. She is wearing a white wedding ring. The woman is holding a mirror in her hand. There is a large window behind the woman. 
+test_11,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_12,There are two elephants standing in the water. There is a man standing behind the elephants. The man is wearing a white shirt. 
+test_13,A white plate is sitting on a table. There is food on top of the plate. 
+test_14,A black and white cow standing in a field. There is a fence behind the cow. 
+test_15,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. There are trees behind the man. 
+test_16,There is a train on the tracks. The train is yellow and blue. There is gravel on top of the train. 
+test_17,A bathroom with white walls. There is a mirror on the wall above the sink. The sink is white. 
+test_18,A man in a black wet suit is surfing on a white surfboard. The man is holding his arms out to balance himself. There is a large wave in the water behind him. 
+test_19,A pizza is sitting on top of a white plate. There is cheese and onions on the pizza. 
+test_20,This is a picture of a building. The building is made up of brick. There are many windows on the side of the building . The windows are black and white. 
+test_21,A large white and blue airplane is flying in the sky. There are people standing on the grass behind the airplane. 
+test_22,There is a large airplane in the sky. The airplane is white and blue. There is writing on the side of the airplane. 
+test_23,A man is standing on a beach. He is wearing a white shirt and blue shorts. There is sand on the beach behind him. 
+test_24,A woman is playing tennis on a tennis court. She is wearing a white tank top and white shorts. There is a green ball in the air in front of her. 
+test_25,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a fence behind the woman. 
+test_26,A vase is sitting on a table. The table is made of wood. There is a white candle on the table next to it. 
+test_27,This is an image of a beach. The water is calm and clear. There is a person surfing on a wave in the water. They are wearing a white shirt and blue shorts. 
+test_28,A white plate is sitting on a white table. There is broccoli on top of the broccoli. 
+test_29,There is a sign on the pole. The sign is red and white. There are trees behind the sign. 
+test_30,A man is standing on a tennis court playing tennis. He is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards the man. The court is green with white lines on it. 
+test_31,There is a boat in the water. The boat is white and blue. There is water behind the boat. 
+test_32,A man in a blue shirt and black pants is flying a kite. There is a white building behind the man. 
+test_33,A herd of sheep are grazing in a field.  The sheep have long wool coats and black and white fur. The field has green grass and weeds on it. There are trees in the distance behind the sheep.
+test_34,This picture is taken outside on a sunny day. A truck is parked on the side of a street. The truck has a large white truck bed on top of it. There is a white building behind the truck. 
+test_35,This is an image of a street. The street is very busy with traffic. There is a car parked on the side of the street with a red license plate on it. 
+test_36,This is a picture of a cake. The cake has white frosting on top of it. There are two people sitting at the table. One of the people is wearing a white shirt. 
+test_37,A group of people are standing outside on a cloudy day. They are all wearing jackets and pants. There is a man in a blue shirt standing in front of them. 
+test_38,This is an image of an animal. The animal is a zebra. There is grass and weeds in the image. Grass is tall and brown. Some of the grass is green and some of it is brown and white. 
+test_39,This is an image of a mountain. The mountain is covered in snow. There is snow on the ground. the snow is white. there are mountains in the background.
+test_40,"This is an image of a street. The street is very busy. There is a bus going down the road. It is white and red and has a sign on the side of it that says ""North Pole"". The bus is traveling in the"
+test_41,A man is standing in a kitchen. He is wearing a white chef's shirt. There is a silver fork on the table in front of him. 
+test_42,This is an image of a man and a woman. The man is wearing a white shirt and white pants. He is standing on a wooden bench. There is water in front of the man. 
+test_43,A woman is standing on a grassy field. She is wearing a white shirt and black pants. There is a red and white soccer ball in the air in front of her. 
+test_44,This is a picture of a boat. The boat is white and has a blue sail on it. There are trees on the other side of the water. 
+test_45,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_46,There is a large white boat in the water. There are people standing on the sand behind the boat. 
+test_47,This is an image of a bus stop. The bus is white with a red stripe down the side of it. There is a man standing in front of the bus. He is wearing a black shirt and black pants. 
+test_48,This is an image of a bus. The bus is white with a red stripe down the side of it. There is a man in a blue shirt standing in front of the bus with his arms crossed. 
+test_49,A man is riding a horse. The horse is brown and has a black mane on it. There are trees behind the man. 
+test_50,This is an image of a street. The street is very busy with traffic. There is a red and white sign on the side of the road. This sign is white and has a black arrow on it. 
+test_51,A black truck is parked on the side of a street. The truck has a red license plate on it. There is a white building behind the truck. 
+test_52,A man is standing on a beach. He is wearing a short sleeve shirt and shorts. There is a white surfboard in the water behind him. 
+test_53,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_54,A man is standing on a skateboard in the middle of the street. He is wearing a black shirt and black pants. There is a white building behind the man. 
+test_55,A man in a blue shirt is standing in front of a counter. There is a pizza on the counter next to the man. 
+test_56,A white plate is sitting on a table. There is a glass on the table behind the plate. 
+test_57,There are two motorcycles parked on the street. There is a man in a blue shirt standing in front of the motorcycles. He is wearing a black helmet on his head. 
+test_58,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. 
+test_59,This is an image of a street. The street is made up of brick. There is a car parked on the side of the street with a red license plate on it.  The car has a black windshield and black tires. On the front
+test_60,This is an image of a zoo. The zoo has a lot of animals. There is a giraffe in the middle of the ground. It is brown and black and has horns on its head. 
+test_61,A large white and blue airplane is flying in the sky. There are people standing on the ground next to the airplane. 
+test_62,"This is a picture of a store. The store has a lot of different things on the shelves. There are many different shades of red, white, blue, green, and yellow. Some of the shades are black and some of them are white"
+test_63,A white plate is sitting on a table. There is a white bowl on the table behind the plate. 
+test_64,This is a picture of a cake. The cake is on a table. There are candles on the table in front of the cake and the candles are white. 
+test_65,A white plate is sitting on a table. There is a white bowl on the table behind the plate. 
+test_66,This is a picture of a clock. The clock has a white face and a black hour hand. There are black lines on the face of the clock and the hands are white. 
+test_67,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_68,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_69,The kitchen is clean and modern. There is a stainless steel refrigerator. The cabinets are made of wood. 
+test_70,This is a picture of a cat. The cat is black and white. There is grass on the ground. the grass is green and healthy looking.
+test_71,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_72,A man and a woman are sitting at a table. The man is wearing a white shirt and black pants. He is holding a wine glass in his hand. There is a large window behind the man. 
+test_73,A man in a blue shirt and black pants is standing on top of a surfboard. There is a large wave in the water behind him. 
+test_74,The image is of a bathroom. The bathroom is very clean. There is a mirror on the wall above the sink.  The sink is made of glass and has a white faucet in the middle of it. On the other side of
+test_75,A woman is walking on a sidewalk. She is wearing a black jacket and black pants. There is a red and white sign on the sidewalk next to her. 
+test_76,This is a picture of a train. The train is red and white. There are many windows on the side of the building. You can see many trees in the background. 
+test_77,A toilet is in the corner of the room. The toilet has a white tank. There is a toilet seat next to the toilet. 
+test_78,This is a picture of a lake. The lake is blue and has a lot of water in it. There are people standing on the shore of the lake and they are all holding kites in their hands. 
+test_79,A little boy is laying on a bed. He is wearing a blue shirt and blue jeans. There is a blanket on the bed behind him. 
+test_80,A wooden bench is sitting in the middle of a garden. The bench has a green leaf on the top of it. There is a white wall behind the bench. 
+test_81,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_82,A herd of cows are grazing in a field.  The field has green grass and weeds on it. There is a fence in front of the cows and there are trees in the distance behind the fence.
+test_83,A black laptop is sitting on a desk. There is a black mouse on the desk in front of the laptop. 
+test_84,A stop sign is in the middle of the street. There is a red fire hydrant next to the sign. 
+test_85,There are two giraffes standing in a field. There is a fence behind them. 
+test_86,"This is an image of a produce stand. The stand is made out of wood. There are many different types of produce in the stands. Some of the produce are green, some are brown, and some have yellow flowers. "
+test_87,There is a train on the tracks. The train is blue and white. There are wires above the train. 
+test_88,The kitchen is very clean. The stove is white. There is a window on the wall behind the stove.
+test_89,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. 
+test_90,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a wave coming up behind the man. 
+test_91,A man is standing on a beach flying a kite. He is wearing a blue shirt and blue shorts. There is sand on the beach behind him. 
+test_92,There is a white van on the street. There are cars behind the van. The van is parked in front of a building. 
+test_93,There is a white van on the street. There are cars parked in front of the van. 
+test_94,This is an image of a man. The man is wearing a black shirt and black pants. He is holding a camera in his left hand. There is a white bag on the ground behind him. 
+test_95,There is a boat in the water. The boat is white. There are people standing on the sand behind the boat. 
+test_96,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_97,A man is standing on a beach. He is wearing a blue shirt and blue shorts. There is a white surfboard in front of him. 
+test_98,A man in a blue shirt and black pants is standing in the doorway of a store. The man is holding a white Frisbee in his hand. There is a large window behind the man. 
+test_99,A white plate is sitting on top of a table. There is a white bowl on the table behind the plate. 
+test_100,This is a picture of a cat. The cat is black and white. There are two white curtains on the window. One of the curtains is white and the other one is blue. 
+test_101,A large white airplane is sitting on the ground. There is a large window behind the airplane. 
+test_102,A person is sitting on a bench. The bench is made of wood. There is a white blanket on the ground. 
+test_103,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_104,This is an image of a beach. The water is calm and clear. There is a person surfing on a wave in the water. They are wearing a white shirt and blue shorts. 
+test_105,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_106,A white plate is sitting on a table. There is a large white bowl on the table next to the plate. 
+test_107,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a fence behind the woman. 
+test_108,A white plate is sitting on a table. There is a large white bowl on the table behind the plate. 
+test_109,This is an image of a train. The train is blue and white. There is a bridge over the water. the bridge is made out of concrete. there are trees in the distance.
+test_110,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_111,A group of people are standing in front of a building. There is a man in a blue shirt standing with his arms crossed. 
+test_112,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_113,This is a picture of a building. The building has a clock on the front of it. There are trees behind the clock. 
+test_114,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. There is a fence behind the player. 
+test_115,A large white and blue airplane is flying in the sky. There is a large body of water behind the airplane. 
+test_116,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_117,A woman is playing tennis on a tennis court. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a fence behind the woman. 
+test_118,A bed is in the corner of the room. The bed has a white blanket on it. There is a window behind the bed. 
+test_119,Two elephants are walking in the sand on the beach. One of the elephants is a baby and the other is an adult. The sand is very wet and muddy. There are people standing behind the elephant. 
+test_120,A man is jumping in the air on a skateboard. He is wearing a black shirt and black pants. There are trees behind the man. 
+test_121,There are people standing on the sidewalk. There is a man in a blue shirt and black pants. He is holding a white bag in his hand. 
+test_122,A brown and white cow standing in a field. There is a white fence behind the cow. 
+test_123,A man and a woman are sitting at a table in a restaurant. The man is wearing a white shirt and white pants. He is holding a wine glass in his hand. There is food on the table behind the man. 
+test_124,This is an image of a street. The street is made up of brick. There is a car parked on the side of the street with a red license plate on it. 
+test_125,There are many boats in the water. The water is calm. There is a man in a blue shirt standing on a boat. 
+test_126,This is an image of a plane. The plane is flying in the sky. There is a large body of water behind the plane and the water is blue and has small waves in it. 
+test_127,A white plate is sitting on top of a white table. There is a sandwich on the plate. 
+test_128,A man is standing on a beach. He is wearing a white shirt and blue shorts. There is sand on the beach behind him. 
+test_129,There are two giraffes standing in a field. There are trees behind them. 
+test_130,This is a picture of a clock. The clock is white with black numbers on it. There are people standing in front of the clock with umbrellas. 
+test_131,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_132,There is a train on the tracks. The train is blue and white. There is an orange pole with a sign on it. 
+test_133,This is an image of a laptop. The laptop is a desktop computer with a black keyboard and mouse. There is also a white mouse pad on the keyboard. 
+test_134,There is a cat sitting on the couch. The cat is black and white. There is another cat behind the cat. 
+test_135,This is an image of an animal. The animal is a giraffe. There are two giraffes in the image. One of them is brown and the other one is black and white. 
+test_136,This picture is taken outside on a sunny day. A car is sitting on the side of a road. There is a large white truck in the back of the truck. The truck has a black seat and wheels on it. Two large windows can
+test_137,A woman is sitting at a table in a restaurant. She is wearing a white shirt and a black skirt. There is a glass of wine in front of her. 
+test_138,A white plate is sitting on a table. There is a white bowl on the table behind the plate. 
+test_139,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a fence behind the woman. 
+test_140,The kitchen is very clean. The cabinets are made of wood. There is a white sink in the kitchen. 
+test_141,A woman is standing on a tennis court playing tennis. She is wearing a white tank top and white shorts. There is a green ball in the air in front of her. 
+test_142,A man is standing on a surfboard in the water. He is wearing a black wet suit. There is a white board behind him. 
+test_143,There is a white couch in the room. There are white towels hanging on the wall above the couch. 
+test_144,A cake is sitting on a white plate. The cake has white frosting on top of it. There is a blue ribbon around the cake. 
+test_145,This is a picture of a cake. The cake has white frosting on top of it. There is chocolate sprinkles on the top. 
+test_146,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with a black helmet. The player has a white glove on his right hand. There is a fence behind the player. 
+test_147,A man is standing on a snowboard. He is wearing a black jacket and black pants. There is snow on the ground behind him. 
+test_148,There is a stop sign on the right. The sign is red and white. There are trees behind the sign. 
+test_149,This is an image of a zoo. The zoo has a lot of animals in it. There is a giraffe in the middle of the ground. It is brown and white. 
+test_150,There is a cat sitting on top of a table. The cat is black and white. There is another cat behind the cat. 
+test_151,A woman is sitting at a table in a room. She is wearing a white shirt and black pants. There is a silver laptop on the table next to her. 
+test_152,A man is standing in front of a building. He is wearing a white shirt and black pants. There is a large window behind the man. 
+test_153,A man is riding his bike down the street. He is wearing a black shirt and black pants. There is a red stop sign on the sidewalk in front of him. 
+test_154,This is a picture of a clock tower. The tower is made of brick. There is an old building in the middle of the towers. the building is tall and gray in color. 
+test_155,This is a picture of food. The food is on a white plate. There are white bowls on the table. One of the bowls has a piece of meat on it. 
+test_156,A man is sitting at a table. He is wearing a white shirt and a black tie. There is a cake on the table behind him. 
+test_157,Two zebras are standing in a field. There is a fence behind them. 
+test_158,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. 
+test_159,A large white truck is driving down the street. There is a red fire hydrant on the ground next to the truck. 
+test_160,A white desk sits against a white wall. There is a laptop sitting on top of the desk. 
+test_161,This is a picture of a cat. The cat is black and white with a white belly and eyes. It is sitting on a table. There is food on top of the table with food inside of it. 
+test_162,There are two giraffes standing in a field. There are trees behind them. 
+test_163,This is a picture of a clock. The clock is black and has white numbers. There is writing on the clock with white writing. 
+test_164,A man is jumping in the air on a skateboard. He is wearing a black shirt and black pants. There are people standing behind him. 
+test_165,A woman is sitting on a bench. She is wearing a black shirt and black pants. There is a white wall behind her. 
+test_166,"This is an image of a street. The street is very busy with traffic. There is a red and white bus on the road. It is parked in the middle of the street and it has a sign on it that says ""Stop"". The"
+test_167,A large white and blue airplane is flying in the sky. There is a large propeller on the front of the airplane. 
+test_168,This is a picture of a clock tower. The tower is made of brick. There are many windows on the tower above the clock. Some of the windows are white. 
+test_169,This is a picture of a building. The building has a clock on the front of it. There are trees behind the clock. Some of the trees are green and some are brown. 
+test_170,This is an image of a bus stop. The bus is white with a red stripe down the side of it. There is a man standing in front of the bus. He is wearing a white shirt and black pants. 
+test_171,This is an image of a polar bear. The bear is brown and black and has a black nose and fuzzy ears. There is a rock on the ground in front of the bear that is gray and white. 
+test_172,A man is surfing in the water. He is wearing a black wet suit. There is a white surfboard behind him. 
+test_173,"This is an image of a bus. The bus is white. There is a blue sign on the side of the bus that says ""FREE"". The sign is on a black pole. "
+test_174,A white plate is sitting on top of a table. There is a glass on the table behind the plate. 
+test_175,This is a picture of a store. The store has a lot of different things on the shelves. There are many different fruits and vegetables. Some of the fruits are green and some are yellow. 
+test_176,A group of people are sitting at a table in a restaurant. There is a woman sitting in front of the table with her head down. She is wearing a white shirt and black pants. 
+test_177,This is a picture of a street. The street is made up of tall buildings. There are cars parked on the side of the building. A man is standing on a sidewalk. He is wearing a white shirt and black pants. 
+test_178,A group of people are standing in front of a building. There is a man in a blue shirt standing next to a woman. 
+test_179,A little girl is sitting on a bed. She is wearing a pink shirt and pink pants. There is a white blanket on the bed behind her. 
+test_180,"This is an outdoor image taken of a beach.The water is calm and clear.There is a person surfing on a white surfboard. The person is wearing a short sleeve shirt, shorts and sandals. There is sand on the ground near"
+test_181,A man is standing in a room. He is wearing a white shirt and a black tie. There is a large window behind the man. 
+test_182,This is a picture of a road. The road is paved. There is grass on the ground. the grass is green and brown. there are trees in the background. 
+test_183,There is a toilet in the corner of the room. The toilet is white. There are towels hanging on the wall above the toilet. 
+test_184,A white desk sits against a white wall. There is a laptop sitting on top of the desk. 
+test_185,"This is an image of a bus. The bus is white with a red stripe down the side of it. There is a blue sign on the front of the bus that says, ""Enterprise."" The sky is clear and blue with no clouds"
+test_186,This is an image of a bird. The bird is standing on top of rocks. There is a large rock on the ground. the rock is brown and has a white stripe down the side of it. 
+test_187,There is a clock on the side of the building. The clock is black and white. There are white clouds in the sky above the clock. 
+test_188,A woman is standing on a tennis court playing tennis. She is wearing a white tank top and white shorts. There is a green tennis ball in the air in front of her. 
+test_189,This is a picture of a person. The person is standing on a beach. There is water in front of the person with white sand on it. 
+test_190,This is an image of a street. The street is made up of tall buildings. There is a red fire hydrant on the side of the building. A man is standing on a sidewalk. He is wearing a black jacket and black pants.
+test_191,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_192,This is a bathroom. The walls are white and the floor is made of tiles. There are towels hanging on the wall. 
+test_193,A man is standing on a snow covered hill. He is wearing a black jacket and black pants. There is snow all around him. 
+test_194,There is a white sink in the corner of the room. There are white curtains hanging on the wall above the sink. 
+test_195,A man is walking down the street. He is wearing a black jacket and black pants. There is a red light on the pole next to him. 
+test_196,There is a boat in the water. The boat is white and blue. There are people sitting on the boat. 
+test_197,This is a picture of a cake. The cake has white frosting on top of it. There is chocolate sprinkles on the top. 
+test_198,There are people standing on the beach. There is a large wave in the water. The sky is blue with white clouds. 
+test_199,This is an image of a bedroom. The bedroom has a bed with a white blanket on it. There is a large window on the wall behind the bed. 
+test_200,This is an image of a cat. The cat is black and white. There is a white wall behind the cat with tiles on it. 
+test_201,This is a picture of a building. The building has a clock on the front of it. There are trees behind the clock. Some of the trees have leaves on them. 
+test_202,A herd of cows are grazing in a field. There is a fence behind the cows. 
+test_203,This is an image of a street. The street is very busy with traffic. There is a red and white sign on the side of the road. This sign is white with black writing on it. 
+test_204,"A man is standing on a tennis court playing tennis. He is wearing a short sleeve shirt, shorts, and a white and black tennis shirt. The man has a black and white racket in his hand. A green ball is soaring towards the man"
+test_205,A woman is sitting on a bench. The bench is made of wood. There is a tree behind the woman. 
+test_206,A woman is sitting at a table in a restaurant. She is wearing a white shirt and black pants. There is a glass of wine in front of her. 
+test_207,This is a bathroom. The bathroom is very clean and modern looking. There are two windows on the wall. One window is white and the other window has a white curtain on it.
+test_208,This is a picture of a clock. The clock has a black face and white numbers on it. There are two hands on the clock that are holding the time. One of the hands is touching the numbers. the other hand is holding a white
+test_209,A herd of cows are grazing in a field.  The field has green grass and some brown grasses. There is a fence in the middle of the field and a bunch of trees.
+test_210,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_211,A black and white cat is sitting on a laptop. There is a white wall behind the cat. 
+test_212,A white and blue truck is parked on the side of a street. There is a large white building behind the truck. 
+test_213,A man is walking down the sidewalk. He is wearing a black jacket and black pants. There is a red and white sign on the wall behind him. 
+test_214,This is a picture of a lake. The lake is surrounded by mountains. There are many mountains in the picture. Some of the mountains are green and some are brown. 
+test_215,A baseball player is standing on a baseball field. He is wearing a white uniform and a black helmet. There is a fence behind the player. 
+test_216,This is a bathroom. The bathroom is very clean and modern looking. There are two sinks on the wall. One of the sinks is white and the other sink is blue. 
+test_217,This is an image of a street. The street is very busy with traffic. There is a large building with many windows on the front of it. You can see many trees in the background. 
+test_218,This is a picture of a table. The table is made of wood. There is food on top of the food. there are apples and oranges. 
+test_219,A bird is flying in the air. The bird has a black and white beak. There is a body of water behind the bird. 
+test_220,A white truck is parked on the side of a street. There is a large white building behind the truck. 
+test_221,A group of people are sitting at a table. There is a man in a blue shirt and black pants. He is holding a white remote in his hand. 
+test_222,A man is standing outside on a sunny day. He is wearing a black jacket and black pants. There is a red and white sign on the wall behind him. 
+test_223,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a large wave behind the man. 
+test_224,This is a picture of a table. The table is made up of wood. There are two glasses on the table that have wine in them. One of the glasses has a glass of water in it. 
+test_225,This is an image of a desktop computer. The computer is sitting on a desk. There is a black keyboard on the desk with a white mouse on it. 
+test_226,There is a white couch in the living room. There are two windows on the wall above the couch. The couch is made of wood. 
+test_227,A large white and blue airplane is flying in the sky. There is a large propeller on the front of the airplane. 
+test_228,This is an image of a harbor. The harbor has many boats in it. There is a large ship in the middle of the water with a propeller on the top. It is white and has a blue and red flag on its mast.
+test_229,A baseball player is standing on a baseball field. He is wearing a red and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. 
+test_230,This is a picture of a cat. The cat is black and white. There are two pillows on the bed. One of them is white and the other one is pink and blue. 
+test_231,A man in a blue shirt and black pants is standing on top of a boat. There is a large white boat in the water behind him. 
+test_232,A white plate is sitting on a table. There is a glass on the table behind the plate. 
+test_233,A black and white zebra is standing in a field. There is grass on the ground behind him. 
+test_234,There are two zebras standing in a field. There is a fence behind them. 
+test_235,There is a sink in a bathroom. The sink is white. There are towels hanging on the wall behind the sink.
+test_236,There are people standing on a grassy field. There is a boy wearing a blue shirt and blue shorts. He is holding a red frisbee in his hand. 
+test_237,A man in a white shirt and blue shorts is standing on a tennis court. He is holding a racket in his hand. There is a green ball in the air in front of him. 
+test_238,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a fence behind the woman. 
+test_239,A herd of sheep are grazing in a field.  The sheep have horns on their heads and are looking to the camera. There are trees in the distance behind the sheep.
+test_240,There are many boats in the water. There is a man in a blue shirt standing in front of the boats. He is holding a white paddle in his hand. 
+test_241,This is an image of a street. The street is very busy with traffic. There is a red and white sign on the side of the road. This sign is white and has a black arrow on it. 
+test_242,This is an image of a bird. The bird is standing on a branch. There is a tree in the distance behind the bird and the tree is tall and green. 
+test_243,A table is full of food. There is a white plate on the table with food on it. The table cloth is red. 
+test_244,This is an image of some animals. The animals are elephants. There is a man standing in the middle of the photo. He is holding a stick in his right hand. His left hand is also holding an elephant. This elephant is brown and
+test_245,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_246,A black and white cat is laying on a bed. The cat has a white collar around its neck. There is a window behind the cat. 
+test_247,There is a cat sitting on top of a table. The cat is black and white and has a white collar around its neck. There is food on the table behind the cat. 
+test_248,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_249,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_250,This is an image of a zoo. The zoo has a lot of giraffes in it. There are many trees in the background. Some of the trees are green and some are brown. 
+test_251,There is a clock on the side of the building. The clock is black and white. There are windows in the wall behind the clock. 
+test_252,This is an image of a bedroom. The bedroom has a bed with a white blanket on it. There is a small window on the wall behind the bed. 
+test_253,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_254,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_255,A man is sitting at a table. He is wearing a white shirt and a black tie. There is a cake on the table behind him. 
+test_256,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_257,The kitchen is very clean. The stove is white. There is a window on the wall above the stove. 
+test_258,"This photo is taken outside on a sunny day. A man is walking on the sidewalk next to a street. He is wearing a black jacket, black pants, and black shoes. There is a large tree in front of the man. Part of"
+test_259,A motorcycle is parked on a street. The motorcycle has a black seat. There is a red and white sign on the front of the motorcycle. 
+test_260,A woman is sitting at a table. The table is made of wood. There is a cake on top of the cake. 
+test_261,A man is standing on a sidewalk. He is wearing a black jacket and black pants. There is a red and white sign on the sidewalk next to him. 
+test_262,This is an image of a street. The street is very busy with traffic. There is a red and white sign on the side of the road. This sign is white and has a black arrow on it. 
+test_263,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a large wave behind the man. 
+test_264,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. There is a fence behind the player. 
+test_265,This is an image of a kitchen. The kitchen is made of wood. There is a stove top on the stove that is black and white. It is sitting on a white counter top. 
+test_266,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow all around him. 
+test_267,A black and white cat is sitting on a toilet. The toilet is white. There is a white wall behind the cat. 
+test_268,A white and blue airplane is flying in the sky. There is a large white building behind the airplane. 
+test_269,A man is standing on a snow covered hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_270,There is a boat in the water. The boat is white and blue. There are trees on the other side of the boat.
+test_271,A man is standing on a grassy field. He is wearing a short sleeve shirt and shorts. The grass is short and green. There is a large bush behind the man. 
+test_272,There is a train on the tracks. The train is blue and white. There are wires above the train. 
+test_273,A woman is playing tennis on a tennis court. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There are people standing behind her watching her play. 
+test_274,This is an image of a computer. The computer is sitting on a desk. There is a black keyboard and mouse on top of the keyboard. 
+test_275,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_276,This is a picture of a building. The building has a clock on the front of it. There are trees in the distance behind the clock. 
+test_277,There is a white van on the street. The van is parked on a sidewalk. There are trees behind the van. 
+test_278,There is a white van on the street. There are cars parked next to the van. The van has a black license plate on it. 
+test_279,This is a picture of a zoo. The zoo has a lot of animals. There are two giraffes in the picture. One of them is black and the other one is brown and white. 
+test_280,There is a wooden bench in the middle of the water. The water is blue and has small waves in it. There are trees on the ground next to the bench. 
+test_281,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_282,A man is standing on a grassy field. He is wearing a white shirt and blue shorts. A black and white ball is soaring in the air towards him. There is a fence behind the man. 
+test_283,There is a red and white sign on the side of the street. The sign has a black arrow on it. There are cars parked on both sides of this sign. 
+test_284,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow all around him. 
+test_285,There is a sign on the pole. The sign is red and white. There are trees behind the sign. 
+test_286,A man is sitting on a bench in front of a window. He is wearing a black shirt and black pants. There is a white wall behind the man. 
+test_287,A group of boys are playing soccer on a grassy field. One of the boys is wearing a red shirt and blue shorts. He is kicking a white soccer ball that is soaring towards him. The boy on the right is holding a yellow soccer
+test_288,A white and blue airplane is flying in the sky. There is a large white building behind the airplane. 
+test_289,A group of people are standing outside on a sunny day. They are all holding umbrellas over their heads. There is a man in a blue shirt standing in front of the people. 
+test_290,There is a boat in the water. The boat is white and blue. There is water behind the boat. 
+test_291,A white table is sitting in a room. There is a white sink in front of the table. 
+test_292,A man in a white shirt and blue shorts is swinging a baseball bat. There is a black fence behind the man. 
+test_293,This is a picture of a computer. The computer is sitting on a white desk. There are two monitors on the desk that are turned on. One of the monitors is black and the other monitor is white. 
+test_294,This is an image of a man and a horse. The man is wearing a white shirt and black pants. He is standing on a grassy field. There is a large white building behind the man. 
+test_295,There are people standing on a beach. There is a man in a blue shirt and white shorts. He is holding a white surfboard in his hand. 
+test_296,This is a picture of a shelf. The shelf is made out of wood. There are many items on the shelves. Some of the items are food. the food is brown and green. there are also many bottles. One bottle is red and
+test_297,A plate of food is sitting on a table. There is a glass on the table behind the plate. The table is made of wood. 
+test_298,This is a picture of a road. The road is paved. There is grass on the ground. the grass is green and brown. there are trees in the background.
+test_299,A man is jumping in the air on a skateboard. He is wearing a white shirt and black pants. There is a fence behind the man. 
+test_300,A large white and blue airplane is flying in the sky. There is a large propeller on the front of the airplane. 
+test_301,A man is standing in a kitchen. He is wearing a white shirt and black pants. There is a silver kettle on the stove. 
+test_302,A man and a woman are standing outside on a sunny day. The man is wearing a gray shirt and gray pants. He is holding a white dog in his arms. There is a wooden fence behind the man. 
+test_303,A woman is sitting at a table. She has a white plate on her lap. There is food on top of the plate. 
+test_304,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_305,A man in a black wet suit is standing on a beach. He is holding a white surfboard in his hand. There is water behind him. 
+test_306,A woman is sitting at a table. She is wearing a white shirt. There is a cake on the table in front of her. 
+test_307,There is a large airplane in the sky. The airplane is white with a blue stripe down the side of it. There is writing on the tail of the airplane. 
+test_308,A white truck is parked on the side of a street. There is a black car behind the truck. 
+test_309,A man is surfing in the water. He is wearing a black wet suit. There is a white surfboard behind him. 
+test_310,This is an image of a polar bear. The bear is brown and black and has a black nose and fuzzy ears. There is a tree behind the bear that has green leaves on it. 
+test_311,There is a fire hydrant on the ground. There is water in the water. The fire hyrant is red and white. 
+test_312,A table has a large white plate on it. There is a glass on the table behind the plate. The table is made of wood. 
+test_313,"A man is riding a motorcycle on a paved road. He is wearing a black helmet, a white shirt and black pants. There is a red and white sign on the side of the motorcycle. "
+test_314,A man is riding a motorcycle down the street. He is wearing a black helmet on his head. There is a red and white sign on the front of the motorcycle. 
+test_315,There is a large white airplane in the sky. There are people standing on the ground next to the airplane. 
+test_316,This is a picture of a restaurant. The restaurant has a lot of food on the table. There are many different types of pizzas. Some of the pizza has cheese on it. A man is sitting at a table wearing a white shirt.
+test_317,This is an image of a train. The train is blue and white. There is a man standing on the platform. He is wearing a black jacket and black pants. 
+test_318,This is an image of a computer. The computer is sitting on a white desk. There is a black keyboard on the desk with white keys on it. 
+test_319,A black and white cow standing in a field. There is a fence behind the cow. 
+test_320,This is a picture of a street. The street is made up of tall buildings. There are many windows on the building. Some of the windows are white and some are black. A sign is on a pole that is attached to the pole.
+test_321,There are two people standing on the grass. The grass is very green. There is a man in a blue shirt standing in front of the people. 
+test_322,There are two zebras standing in a field. There is grass on the ground in front of them. 
+test_323,A bed is in the corner of the room. The bed has a white blanket on it. There is a window behind the bed. 
+test_324,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_325,This is a picture of a dog. The dog is black and white. There is an orange cone on the ground. the dog has a black collar on it. 
+test_326,A man is sitting at a table in a restaurant. He is wearing a white shirt and a black tie. There is a glass of wine in front of the man. 
+test_327,A man is sitting at a table in a restaurant. He is wearing a white shirt and a black tie. There is a glass of wine in front of the man. 
+test_328,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_329,A toilet is in the corner of the room. There is a white wall behind the toilet. The wall is made of wood. 
+test_330,"A man is skateboarding outside on a sunny day. He is wearing a short sleeve shirt, shorts, and a black helmet. The skateboard is black and the wheels on it are black. There are trees behind the man. "
+test_331,This is an image of a polar bear. The bear is standing on a rock. There is a large rock on the ground in front of the bear that is gray and has a white fur on it's chin. 
+test_332,A sheep is walking on the grass. The sheep has a black and white coat. There is a fence behind the sheep. 
+test_333,A man is standing on a grassy field. He is wearing a white shirt and black pants. There is a blue and white ball on the ground in front of him. 
+test_334,A woman is sitting at a table in a restaurant. She is wearing a short sleeve white shirt and black pants. There is a glass of wine in front of her on the table. 
+test_335,This is a picture of a pool. The pool has a blue and white pool table. There are people sitting on the ground next to the pool and they are all holding umbrellas. 
+test_336,This is an image of a street. The street is very busy with traffic. There is a red and white sign on the side of the road. This sign is white and has a black arrow on it. 
+test_337,There is a white toilet in the corner of the room. There are white towels hanging on the wall above the toilet. 
+test_338,Two people are standing on skis in the snow. One of the people is wearing a black jacket and black pants. The other person is holding ski poles in their hands. 
+test_339,A large white and blue airplane is flying in the sky. There is a white building behind the airplane. 
+test_340,A cat is sitting on top of a laptop. The cat has white fur on it's chin. There is a white wall behind the cat. 
+test_341,There is a boat in the water. The boat is white and blue. There are people standing on the sand behind the boat. 
+test_342,A herd of elephants are walking in a field. There is a large rock wall behind the elephants. 
+test_343,A bathroom with a white toilet in it. There is a mirror on the wall behind the toilet. 
+test_344,A man is sitting at a table in a restaurant. He is wearing a white shirt and black pants. There is a pizza on the table next to him. 
+test_345,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_346,There is a toilet in the corner of the room. The toilet is white. There are towels hanging on the wall above the toilet. 
+test_347,"A man is riding a motorcycle on a paved road. He is wearing a black helmet, a white shirt and black pants. The motorcycle is black. There are trees behind the man. "
+test_348,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There is a fence behind the man. 
+test_349,This is an image of a horse. The horse is brown and has a black mane on it. There is a man standing in front of the horse with a white hat on his head. He is wearing a gray shirt and black pants.
+test_350,A black car is parked on the street. There is a white car behind the car. 
+test_351,A woman is wearing a white dress. She is standing in front of a mirror. There is a man in a blue shirt standing behind her. 
+test_352,There is a train on the tracks. The train is red and white. There are people standing in front of the train. 
+test_353,There are two elephants standing in a field. There is a fence behind the elephants. 
+test_354,This is a picture of a clock tower. The tower is made of stone. There is an old church in the middle of the towers. 
+test_355,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_356,This is an image of a bed. The bed has a white blanket on top of it. There is a black and white cat sitting on the blanket. 
+test_357,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_358,A white plate is sitting on a table. There is a glass on the table behind the plate. 
+test_359,This is an image of a street. The street is very busy with traffic. There is a red and white sign on the side of the road. This sign is white and has a black arrow on it. 
+test_360,This is an image of a street. The street is very busy with traffic. There is a red light on the right of the image. A car is driving down the road. It has a black license plate on it. 
+test_361,"A large white bowl is sitting on a table. There is broccoli, onions, and green peppers on top of the broccoli. "
+test_362,There are two sheep in the image. The sheep on the left are brown and white. There is a fence behind them. 
+test_363,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_364,A train is on the train tracks. There is a man in a blue shirt standing next to it. The man is wearing a black jacket. 
+test_365,A kitchen with a white counter top. There is a silver stove next to the stove. 
+test_366,A man in a black jacket and black pants is standing on top of a snow covered hill. The man is holding a red and white snowboard in his hand. There is snow all around the man. 
+test_367,A man and a woman are standing in a room. The man is wearing a white shirt and white pants. He is holding a wine glass in his hand. There is a table in front of the man. 
+test_368,This is a picture of a building. The building has a clock on the front of it. There are trees in the distance behind the clock. 
+test_369,This is an image of a street. The street is made up of concrete. There is a red light on the pole in the middle of the concrete and the light is reflecting off of it. You can see trees and buildings on both sides of
+test_370,A bathroom with a toilet in it. The toilet is white. There is a mirror on the wall behind the toilet. 
+test_371,This is a picture of a woman. The woman is holding a purse in her left hand. She is wearing a long sleeve shirt with a floral print on the front of it. Her purse is brown and has a black strap around the waist.
+test_372,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_373,A plate of food sits on a table. There is a glass on the table behind the plate. The plate is sitting on top of a white table cloth. 
+test_374,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_375,This is an image of a park. The park has a lot of green grass. There are many trees in the background. Some of the trees are green and some of them are not. You can see a bridge over the water. 
+test_376,This is an image of a computer. The computer is sitting on a desk. There is a keyboard and mouse on the desk in front of it. 
+test_377,A large white and red airplane is flying in the sky. There are people standing on the ground next to the airplane. 
+test_378,This is an image of a bird. The bird is standing on a branch. There is a brown and white bird in the middle of the branches. 
+test_379,A pizza is sitting on top of a white plate. There is cheese and pepperoni on the pizza. 
+test_380,A woman is standing on a sidewalk. She is wearing a black jacket and black pants. There is a large tree behind her. 
+test_381,A cat is laying on a bed. The cat has a black nose and fuzzy ears. There is a window behind the cat. 
+test_382,There is a train on the tracks. The train is yellow and blue. There are trees behind the train. 
+test_383,A woman is standing in a bathroom. She is wearing a white tank top and white bottoms. There is a mirror behind the woman. 
+test_384,This is an image of a cat. The cat is brown and white. There is a small window on the wall behind the cat and it is sitting on it's hind legs. It has a black nose and fuzzy ears. 
+test_385,A man in a black wet suit is standing on a beach. He is holding a white surfboard in his hand. There are waves in the water behind him. 
+test_386,This is an image of a street. The street is very busy with traffic. There is a red light on the right of the image. It is daytime and the sun is shining very bright.
+test_387,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_388,A man is standing in a kitchen. He is wearing a white chef's shirt. There is a silver fork in front of the man. 
+test_389,A group of people are standing outside on a cloudy day. They are all holding umbrellas over their heads. There is a man in a blue shirt standing in front of the people. 
+test_390,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_391,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a fence behind the woman. 
+test_392,There is a train on the tracks. The train is yellow and blue. There are trees behind the train. 
+test_393,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_394,This is an image of a bird. The bird is standing on top of some rocks. There is a rock on the ground. the rock is brown and has a black and white stripe down the side of it. 
+test_395,A large white and blue airplane is flying in the sky. There is a large propeller on the front of the airplane. 
+test_396,A man in a white shirt and black pants is sitting on a motorcycle. There is a black motorcycle behind him. 
+test_397,"A man is skateboarding outside on a sunny day. He is wearing a black shirt, black pants, and black shoes. The skateboard is black and the wheels are black. There are trees behind the man. "
+test_398,There is a clock on the top of a building. The clock is black and white. There are trees in the distance behind the clock.
+test_399,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_400,This is an image of a bird. The bird is brown and white with a black beak and wings. There is a tree in front of the bird with green leaves on it. 
+test_401,There are many boats in the water. There is a man in a blue shirt standing in front of the boats. 
+test_402,A person is standing on a beach. They are holding a surfboard in their hand. There is water in front of them. 
+test_403,There is a toilet in the corner of the room. The toilet is white. There are towels hanging on the wall above the toilet. 
+test_404,A man is sitting at a table in a restaurant. He is wearing a white chef's shirt and a black tie. There is a glass of wine in front of the man. 
+test_405,This is an image of some food. The food is cooked well. There is broccoli and cauliflower on top of the broccoli. there is a red and white bowl on the table. 
+test_406,The image is of a bathroom. The bathroom has a white toilet in it. There is a mirror on the wall behind the toilet. 
+test_407,There is a train on the tracks. The train is yellow and blue. There are people standing in front of the train. 
+test_408,A man is flying a kite in the air. He is wearing a black shirt and blue shorts. There is a large body of water behind the man. 
+test_409,There is a toilet in the corner of the room. The toilet is white and the lid is up. There is toilet paper on the ground next to the toilet. 
+test_410,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_411,A man is wearing a black shirt and black pants. He is holding a white frisbee in his hand. There are people standing behind him. 
+test_412,There are two horses in the field. One of the horses is brown and the other one is black and white. There is a man standing in front of them. 
+test_413,There is a white toilet in the corner of the room. There are white towels hanging on the wall next to the toilet. 
+test_414,This is an image of a bus. The bus is white and has a red stripe down the side of it. There is a white building in the distance. 
+test_415,This is an image of a desktop computer. The computer is sitting on a desk. There is a black keyboard and mouse on the desk in front of it. 
+test_416,A giraffe is standing in a field. There is a fence behind the giraffes. The grass is tall and green. 
+test_417,A group of people are sitting at a table. There is a man in a blue shirt standing in front of them. He is holding a wine glass in his hand. 
+test_418,A man is jumping in the air on a skateboard. He is wearing a black shirt and black pants. There are trees behind the man. 
+test_419,There is a wooden table in the middle of the room. There are two chairs next to the table. 
+test_420,A man is riding his bike down the street. He is wearing a black jacket and black pants. There is a red stop sign on the side of the road. 
+test_421,A man is surfing in the water. He is wearing a black wet suit. The water is blue and clear. There is a white surfboard under the man. 
+test_422,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_423,This is an image of a cat. The cat is brown and white. There is a small window on the wall behind the cat with a white curtain on it. 
+test_424,There is a train on the tracks. The train is yellow and blue. There is an orange pole next to the train. 
+test_425,A man is standing in front of a mirror. He is wearing a white shirt and a black tie. There is a large window behind the man. 
+test_426,There is a boat in the water. The boat is white and blue. There are people sitting on the boat. 
+test_427,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_428,A group of people are standing outside on a sunny day. They are all holding umbrellas. There is a man in a blue shirt standing in front of the umbrella. 
+test_429,A man in a white shirt and black pants is standing in the doorway of a bar. The man is holding a red and white frisbee in his hand. There is a large window behind the man. 
+test_430,"A man is skateboarding outside on a sunny day. He is wearing a short sleeve shirt, shorts, and a black helmet. The skateboard is black and the wheels are black. There are trees behind the man. "
+test_431,A man is standing on a tennis court playing tennis. He is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards the man. The court is green with white lines on it. 
+test_432,A motorcycle is parked on a street. The motorcycle has a black seat. There is a red and white sign on the front of the motorcycle. 
+test_433,There is a train on the tracks. The train is blue and white. There are wires above the train. 
+test_434,A toilet is in the corner of the room. The toilet has a white tank. There is a toilet seat next to the toilet. 
+test_435,A man is standing on a beach. He is wearing a white shirt and blue shorts. There is a blue and white kite in his hand. 
+test_436,A man is standing on the sidewalk. He is wearing a black jacket and black pants. There is a red fire hydrant next to the man. 
+test_437,A group of people are sitting at a table in a restaurant. There is a man with a white shirt standing in front of the table. 
+test_438,A bus is on the street. There is a man in a blue shirt standing in front of the bus. 
+test_439,A white van is parked on the street. There is a black car behind the van. 
+test_440,This is an image of a computer. The computer is sitting on a desk. There is a black keyboard and mouse on the desk with a white mouse pad on top of it. 
+test_441,A baseball player is standing on a baseball field. He is wearing a white uniform and a black helmet. There is a fence behind the player. 
+test_442,This is a bathroom. The sink is white. There are towels hanging on the wall above the sink. 
+test_443,This is a picture of a cat. The cat is black and white and has a black nose and fuzzy ears. There is an umbrella over the cat with a red bow on it. 
+test_444,A white plate is sitting on a table. There is a white bowl on the table behind the plate. 
+test_445,There is a cat sitting on the ground. The cat is black and white. There is grass around the cat. 
+test_446,A man is standing on a snow covered ground. He is wearing a black jacket and black pants. There is snow on the ground in front of him. 
+test_447,A herd of elephants are walking in a field. There is a large rock wall behind the elephants. 
+test_448,The sky is partly cloudy and overcast. There is a large body of water in the distance. The sky above the water is blue with white clouds. 
+test_449,This is an image of a ski resort. The resort has a lot of snow on the ground. There is a man standing in the snow. He is wearing a black jacket and black pants. 
+test_450,A man is standing on top of a snow covered mountain. He is wearing a black jacket and black pants. There is snow all around him. 
+test_451,A group of people are standing outside on a sunny day. They are all holding umbrellas. There is a man in a blue shirt standing in front of a building. 
+test_452,A man is sitting on a couch. He is holding a white game controller in his hand. There is a blue wall behind him. 
+test_453,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_454,There is a train on the tracks. The train is yellow and blue. There are trees behind the train. 
+test_455,A zebra with black and white stripes is standing on a grassy field.  The grass is tall and green and there are patches of weeds in the grass. There are two zebras standing next to each other in front of a fence
+test_456,"This is an image of a bus. The bus is white with a red stripe down the side of it. There is a blue sign on the front of the bus that says, ""Enterprise."" The sky is clear and blue with no clouds"
+test_457,There is a clock on the top of a building. The clock is black and white. There are many windows in the building behind the clock. 
+test_458,There is a zebra in the water. The water is blue. There is grass on the ground in front of the zebras. 
+test_459,A woman is standing in the doorway of a train. She is wearing a black jacket and black pants. There is a large window behind the woman. 
+test_460,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow all around him. 
+test_461,A group of giraffes are standing together outside on a sunny day. They are surrounded by tall grass and trees. There is a man in a blue shirt standing in front of them. 
+test_462,This is a bathroom. The sink is white. There are white towels hanging on the wall above the sink. 
+test_463,This is a picture of a house. The house is made of wood. There are two windows on the front of the house with white curtains on them. One window has a white curtain on it. 
+test_464,This is a picture of a clock. The clock is black and white. There is an advertisement on the side of the clock with the numbers on it. 
+test_465,A pizza is sitting on a white plate. There is cheese and onions on top of the pizza. 
+test_466,This is a picture of some fruits. The fruits are strawberries. There are apples and peaches. 
+test_467,A man is standing in front of a mirror. He is wearing a white shirt and a black tie. There is a large window behind the man. 
+test_468,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. There is a fence behind the player. 
+test_469,"A man is standing on a tennis court playing tennis. He is wearing a short sleeve shirt, shorts, and a white and blue tennis shirt. A green tennis ball is soaring in the air towards the man. The court is blue and white."
+test_470,This is an image of some animals. The animals are sheep. There is a sheep in the middle of the photo. the sheep is black and white. It has a white head and a black neck. 
+test_471,A man and woman are sitting at a table. The man is wearing a white shirt and a black tie. He is holding a glass of wine in his hand. There is food on the table behind the man. 
+test_472,There is a train on the tracks. The train is yellow and blue. There are trees behind the train. 
+test_473,This is an image of a street. The street is very busy with traffic. There is a red light on the right of the image. A car is driving down the road. It has a white and black license plate on it. 
+test_474,"This is an image of a road. The road is made up of gravel. There is a red and white sign on the side of the road that says ""Road Construction Only"". The sign is on a metal pole that is attached to a pole"
+test_475,There are two sheep in the image. The sheep on the left are brown and white. There is a fence behind them. 
+test_476,Two giraffes are standing in a field. There is a fence behind them. 
+test_477,There is a train on the tracks. The train is blue and white. There are wires above the train. 
+test_478,This is an image of a street. The street is made up of tall buildings. There is a red light on the pole in front of the building. A man is standing on a sidewalk. He is wearing a black shirt and black pants.
+test_479,There is a boat in the water. The boat is white and blue. There are people sitting on the boat. 
+test_480,A bathroom with white walls. There is a white toilet in the bathroom. The sink is white. 
+test_481,A cat is laying on the floor. The cat has a black nose and fuzzy ears. There is a white wall behind the cat. 
+test_482,A man is surfing in the water. He is wearing a black wet suit. There is a white surfboard behind him. 
+test_483,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_484,A woman is sitting at a table. She is wearing a white shirt. There is a silver laptop on the table in front of her. 
+test_485,A large white and blue airplane is sitting on the runway. There is a large blue and white airplane in front of the airplane. 
+test_486,A bed is in the corner of the room. The bed has a white blanket on it. There is a window on the wall behind the bed. 
+test_487,This is an image of a zoo. The zoo has a lot of animals. There is a giraffe in the middle of the picture. It is brown and white. 
+test_488,A man is standing on a beach. He is wearing a blue shirt and blue shorts. There is sand on the beach behind him. 
+test_489,There is a train on the tracks. The train is blue and white. There are wires above the train. 
+test_490,A woman is standing in front of a cake. The cake is on a table. There are candles on the table behind the woman. 
+test_491,A large white bird is standing on the ground. There is a large tree behind the bird. 
+test_492,This is an image of a bear. The bear is brown with a black snout. There is a rock on the ground next to the bear with rocks on it. 
+test_493,"A man is skateboarding outside on a sunny day. He is wearing a short sleeve shirt, shorts, and a pair of sneakers. The skateboard is black and the wheels on it are black. There are trees behind the man. "
+test_494,A group of people are standing on a sidewalk in front of a building. There is a man in a blue shirt standing next to a black umbrella. 
+test_495,There are two zebras standing in a field. There is grass on the ground in front of them. 
+test_496,There is a clock on the top of a building. The clock is white with black numbers. There are many windows in the building behind the clock. 
+test_497,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow all around him. 
+test_498,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_499,A person is standing on top of a snow covered mountain. They are wearing a black jacket and black pants. There is snow all around them. 
+test_500,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_501,This is a picture of a computer. The computer is sitting on a desk. There are two monitors on the desk that are turned on. One of the monitors is black and the other monitor is white. 
+test_502,This is an image of a computer. The computer is sitting on a desk. There is a black keyboard on the desk with a white mouse on it. 
+test_503,A man is sitting on a bench. The bench is made of wood. There is a black and white cow behind the man. 
+test_504,This is an image of a bathroom. The bathroom has a toilet in it. There is a white sink on the wall behind the toilet. 
+test_505,This is an image of a bedroom. The bedroom has a small bed with a white blanket on it. There is a large window on the wall behind the bed. 
+test_506,There is a white toilet in the bathroom. There are white towels hanging on the wall in front of the toilet. 
+test_507,This is an image of a polar bear. The bear is standing on a rock. There is snow on the ground in front of the bear and there are trees behind the bears. 
+test_508,A man in a blue shirt and black pants is standing in the doorway of a store. He is holding a white game controller in his hand. There is a large window behind the man. 
+test_509,A man is standing on a baseball field. He is wearing a red and white uniform and a black helmet. There are people standing behind him. 
+test_510,A giraffe stands in a field. There is a fence behind the giraffes. The grass is tall and green. 
+test_511,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_512,This is an image of a street. The street is made up of tall buildings. There is a red fire hydrant on the sidewalk in front of the building. 
+test_513,A man is standing on a baseball field. He is wearing a red and white uniform and a black helmet. There is a catcher's mound in front of him. 
+test_514,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_515,A woman is standing on a snow covered ground. She is wearing a black jacket and black pants. There is snow on the ground in front of her. 
+test_516,This is a picture of a table. The table is made of wood. There is food on top of the food. there are white bowls on the table with food in them. 
+test_517,A woman is standing on a beach. She is holding a white surfboard in her hand. There is water behind her. 
+test_518,A man in a black jacket and black pants is standing on a snowboard. He is wearing a helmet and goggles. There is snow on the ground behind him. 
+test_519,A man is riding a motorcycle on the street. He is wearing a black jacket and black pants. There is a large white building behind him. 
+test_520,A man is surfing in the water. He is wearing a black wet suit. There is a white surfboard behind him. 
+test_521,A man is standing in front of a mirror. He is wearing a white shirt and black pants. The man has a beard and mustache on his chin. 
+test_522,There is a white bowl on the table. There are bananas on top of the bananas. 
+test_523,There is a stop sign on the street. The sign is red and white. There are cars parked in front of the sign. 
+test_524,A man is sitting on a bed. The bed has a white blanket on it. There is a blue blanket next to the man. 
+test_525,A zebra is standing in a field. There is a fence behind the fence. The grass is tall and green. 
+test_526,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. 
+test_527,A bed is in the corner of the room. The bed has a white blanket on it. There is a window behind the bed. 
+test_528,A man is sitting at a table. He is wearing a black jacket and blue jeans. There is a silver laptop on the table in front of him. 
+test_529,A large white and blue airplane is flying in the sky. There is a large body of water behind the airplane. 
+test_530,A white van is parked on the side of the street. There is a large white building behind the van. 
+test_531,This is a picture of a cow. The cow is brown and white. There is grass on the ground. the grass is green and brown. there are cows behind the fence. 
+test_532,There is a large white boat in the water. There are people standing on the side of the boat. 
+test_533,This is a picture of a refrigerator. The refrigerator is made of wood. There are many items on the counter. Some of the items are white and some of them are red. 
+test_534,A bathroom with white walls. There is a white toilet in the bathroom. The sink is white and has a silver faucet. 
+test_535,A man is skateboarding outside on a sunny day. He is wearing a short sleeve shirt and shorts. The skateboard is black and the wheels on it are black. There are trees behind the man. 
+test_536,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. 
+test_537,This is an image of a zoo. The zoo has a lot of animals in it. There is a giraffe in the middle of the ground. It is brown and white. 
+test_538,A bus is on the road. There is a man in a blue shirt standing in front of the bus. 
+test_539,A cat is laying on the floor. The cat has a black nose and paws. There is a window behind the cat. 
+test_540,A giraffe is standing in a field. There is a fence behind the giraffes. The grass is tall and green. 
+test_541,A toilet is in the corner of the room. There is a white toilet on the wall next to the toilet. The floor is made of tiles. 
+test_542,This is an image of a zoo. The zoo has a lot of animals. There is a giraffe in the middle of the ground. It is brown and white. 
+test_543,This is a picture of a train on the tracks. The train is red and white. There are people standing in front of the train. Some people are wearing hats on their heads. 
+test_544,A large white and blue airplane is flying in the sky. There is a white building behind the airplane. 
+test_545,A white plate is sitting on a table. There is broccoli in the middle of the broccoli. The broccoli is bright green and has yellow leaves on it. 
+test_546,There is a white couch in the room. There are books on the wall next to the couch. 
+test_547,A laptop is sitting on top of a desk. There is a white keyboard on the desk in front of the laptop. 
+test_548,This is a room with a bed in it. The bed has a white blanket on top of it and a blue and white pillow on the bed. There are two windows in the room. One of the windows is white and the other window is
+test_549,This is a picture of a clock. The clock is black and white. There are flowers in the background. the flowers are yellow and green.
+test_550,A man in a white shirt and blue shorts is standing on a tennis court. He is holding a racket in his hand. There are people standing behind him watching him. 
+test_551,A baseball game is in progress on a baseball field. A batter in a white uniform is swinging a bat at home plate. He is wearing a black helmet and a red helmet. The catcher is crouched down behind the batter. 
+test_552,This is an image of a mountain. The mountain is covered in snow. There is snow all over the ground. Some of the snow is white and some of it is black and white. 
+test_553,This is a picture of a man and a woman. The man is wearing a black shirt and white pants. He is holding a white surfboard in his hand. There is water in front of the man. 
+test_554,A man is standing on a grassy field. He is wearing a short sleeve shirt and shorts. The man has short dark hair and is holding a red frisbee in his hand. There are trees behind the man. 
+test_555,This is an image of a mirror. The mirror is made of glass. There is a black and white cat sitting on the top of the mirror with a white collar around its neck.  The cat is gray and black with white fur on it
+test_556,A herd of cows are standing in a field. There is a fence behind the cows. 
+test_557,A group of people are standing in front of a building. There is a man in a blue shirt standing with his arms crossed. He is wearing a white shirt and black pants. 
+test_558,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_559,A man is laying on a bed. The bed has a white blanket on top of it. There is a blue blanket next to the man. 
+test_560,This is a picture of a building. The building has a clock on the front of it. There are many windows in the building behind the clock. 
+test_561,A white desk sits against a white wall. There is a laptop sitting on top of the desk. 
+test_562,A man is riding a motorcycle down the street. He is wearing a black helmet and a white shirt. There is a red and white sign on the front of the motorcycle. 
+test_563,There is a train on the tracks. The train is blue and white. There are wires above the train. 
+test_564,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a wave coming up behind the man. 
+test_565,A group of people are standing outside on a sunny day. They are all holding umbrellas over their heads. There is a man in a blue shirt standing in front of the umbrella. 
+test_566,A man is riding his bike down the street. He is wearing a white shirt and black pants. There is a red light on the pole behind him. 
+test_567,"This is an image of a road. The road is paved. There is a red and white sign on the side of the road that says ""Road Construction Only"". The sign is on a metal pole that is attached to the pole. On the"
+test_568,A bunch of motorcycles are parked on the street. There is a man in a white shirt standing in front of the motorcycles. 
+test_569,A little boy is sitting on a bed. He is wearing a blue shirt and blue jeans. There is a white blanket on his head. 
+test_570,There are two giraffes standing in a field. There is a fence behind them. 
+test_571,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_572,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a wave coming up behind the man. 
+test_573,A man and a woman are walking on a beach. The man is wearing a black shirt and blue shorts. He is holding a white surfboard in his hand. There are small waves in the water behind the man. 
+test_574,There is a zebra standing in a field. There is grass on the ground around the zebras. The grass is tall and green. 
+test_575,A man is standing on a grassy field. He is wearing a short sleeve shirt and shorts. The grass is green and short. There is a blue fence behind the man. 
+test_576,A bunch of bananas are sitting on top of a table. There are bananas in the middle of the bananas. The table is made of wood. 
+test_577,A man is standing on a beach flying a kite. He is wearing a black shirt and blue shorts. There is sand on the beach behind him. 
+test_578,A black and white cat is sitting on a wooden bench. The bench is made of wood. There is a white wall behind the cat. 
+test_579,A group of people are standing outside on a sunny day. They are all holding umbrellas. There is a man in a blue shirt standing in front of the people. 
+test_580,A black and white zebra is standing on a grassy field. There is a fence behind him. The grass is tall and green. 
+test_581,A white counter top sits in a kitchen. There is a white microwave above the stove. 
+test_582,A herd of cows are grazing in a field.  The field has green grass and some brown grasses. There is a fence in the middle of the field and a bunch of trees. The sky above the cows is blue.
+test_583,A man and a woman are standing outside on a sunny day. The man is wearing a short sleeve shirt and blue jeans. He is holding a white game controller in his hand. There is a wooden fence behind the man. 
+test_584,A bench is in the middle of a grassy field. There is a large tree in front of the bench. The grass is tall and green. 
+test_585,This is a picture of a beach. The sky is clear and blue. There are small waves in the water. People are walking on the sand in front of the waves. Some people are flying kites. One kite is red and white
+test_586,This is a picture of a street. The street is very busy with traffic. There are many cars on the road. Some of the cars are white and some are black. 
+test_587,A man in a black wet suit is standing on a beach. The man is holding a white surfboard in his hand. There is water behind the man. 
+test_588,This is an image of a zoo. The zoo has a lot of animals. Some of the animals are giraffes. There is a giraffe in the middle of them all. 
+test_589,There are two giraffes standing in a field. There are trees behind them. 
+test_590,This is an image of a plane. The plane is a passenger airline and it has a logo on the side of it. There are two large engines in the front of the plane and two smaller engines behind the airplane. 
+test_591,A woman is sitting on a bed. The bed has a white blanket on top of it. There is a blue blanket next to the woman. 
+test_592,A bathroom with white walls. There is a mirror on the wall behind the sink. The sink is white. 
+test_593,A man is sitting on a bench in front of a window. He is wearing a black jacket and black pants. There is a white wall behind the man. 
+test_594,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_595,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_596,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_597,A man is standing in a room. He is wearing a white shirt and black pants. There is a large window behind the man. 
+test_598,This is a picture of a building. The building has a clock on the front of it. There are many windows in the building and the windows are made of glass. 
+test_599,There are two giraffes standing in a field. There are trees behind them. 
+test_600,A wooden bench is in the middle of the water. There is a person sitting on the bench. The person is wearing a black shirt. 
+test_601,A woman is standing in a room holding a baby. She is wearing a blue shirt and black pants. There is a white wall behind the woman. 
+test_602,The kitchen is very clean. The stove is black. There is a white oven on the stove. 
+test_603,There is a train on the tracks. The train is yellow and blue. There are trees behind the train. 
+test_604,A living room with a fireplace. There is a large window in the middle of the room. The walls are made of wood. 
+test_605,"This is an image of a road. The road is paved. There is a red and white sign on the side of the road that says ""Road Construction Only"". The sign is on a metal pole that is attached to the pole. On the"
+test_606,This is a picture of a dog. The dog is brown and white. There is grass on the ground. the grass is green and brown. 
+test_607,A man is walking down the street. He is wearing a white shirt and black pants. There is a red light on the pole next to him. 
+test_608,A white plate is sitting on a table. There is a silver fork on the table next to the plate. 
+test_609,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. 
+test_610,This is an image of a cat. The cat is black and white. There is a window on the wall behind the cat with a white curtain on it. 
+test_611,A woman is sitting at a table in a restaurant. She is wearing a short sleeve shirt and black pants. There is a white table cloth on the table behind her. 
+test_612,This is an image of a desktop computer. The computer is sitting on a desk. There is a black keyboard and mouse on the desk in front of it. 
+test_613,This is an image of a cat. The cat is black and white. There is a window on the wall behind the cat with a white curtain on it. 
+test_614,A man in a blue shirt and black pants is holding a camera in his left hand.  The man is wearing a black and white striped shirt with a white stripe down the side of the shirt. He is also wearing eyeglasses on his
+test_615,This is a picture of some food. The food is brown rice. There is broccoli in the food and there is red peppers and onions. 
+test_616,A man is riding a skateboard on a paved road. He is wearing a black shirt and black pants. There are trees behind the man. 
+test_617,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_618,A woman is standing on a tennis court playing tennis. She is wearing a white tank top and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_619,This is an image of a zoo. The zoo has a lot of animals. Some of the animals are giraffes. There is a giraffe in the middle of them all.
+test_620,This is a picture of a clock tower. The tower is made up of many windows. There are many mountains in the background. 
+test_621,A man is sitting at a table in a room. He is wearing a white shirt and a black tie. There is a large window behind the man. 
+test_622,This is an image of a bear. The bear is brown and black. There is a large rock on the ground in front of the bear and it has a black nose and fuzzy ears. 
+test_623,This is an image of a street. The street is very busy with traffic. There is a white and red fire hydrant on the sidewalk in front of the building. 
+test_624,This is an image of a street. The street is paved. There is a car parked on the side of the road. the car is white and has a red license plate on it. 
+test_625,A pizza is sitting on top of a white plate. There is cheese and onions on the pizza. 
+test_626,This is an image of a zoo. The zoo has a lot of animals. There is a giraffe in the middle of the photo. It is brown and white. 
+test_627,A person is sitting on a bench. The bench is made out of wood. There is a red blanket on the ground next to the person. 
+test_628,There is a clock on the top of a building. The clock is black and white. There are trees behind the clock. 
+test_629,A man and a woman are sitting on a couch. The man is wearing a short sleeve shirt and blue jeans. He is holding a white game controller in his hand. There is a television in front of the man. 
+test_630,A group of people are standing on a grassy field. There is a man in a blue shirt standing in front of them. He is holding a white game controller in his hand. 
+test_631,A man in a black wet suit is surfing on a white surfboard in the water. The man is wearing a blue shirt and blue shorts. There is a large wave in front of the man. 
+test_632,A white plate is sitting on a table. There is a white bowl on the table behind the plate. 
+test_633,There are two giraffes standing in a field. There are trees behind them. 
+test_634,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_635,A man is sitting on a bench. He is wearing a black shirt and black pants. There is a white wall behind him. 
+test_636,This is a picture of a woman. The woman is holding a purse in her left hand. She is wearing a white shirt. There is an umbrella in front of her. 
+test_637,This is an image of a bedroom. The bedroom has a bed with a white blanket on top of it. There is a large window on the wall behind the bed. 
+test_638,A baseball player is standing on a baseball field. He is wearing a red and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. 
+test_639,There are two horses in the picture. The horse on the left is brown and has a black mane on it. There is a man standing behind the horses. He is wearing a white hat on his head. 
+test_640,A white truck is driving down the street. There is a red fire hydrant on the ground in front of the truck. 
+test_641,A man is riding a motorcycle down the street. He is wearing a black jacket and black pants. There is a red and white sign on the front of the motorcycle. 
+test_642,A white plate is sitting on a table. There is a white bowl on the table behind the plate. 
+test_643,This is an image of a polar bear. The bear is standing on a rock. There is snow on the ground. the snow is white. there is water in the water. 
+test_644,A large white and blue airplane is sitting on the runway. There is a large blue and white sign above the airplane. 
+test_645,A dog is laying on the ground. The dog has a black collar around its neck. There is a tree behind the dog. 
+test_646,A man and a woman are standing outside on a sunny day. The man is wearing a black shirt and black pants. He is holding a white frisbee in his hand. There is a wooden fence behind the man. 
+test_647,A white bowl is sitting on a table. There is a white plate on the table behind the bowl. 
+test_648,This is an image of a bus stop. The bus is white with a red stripe down the side of it. There is a man standing in front of the bus. He is wearing a white shirt and black pants. 
+test_649,This is an image of a plant. The plant is a light green color. There are leaves of the plant in the middle of it's leaves. 
+test_650,This is an image of a cow. The cow is brown and white. There is a fence in front of the cow that is made of wood. 
+test_651,A sheep is standing in a field. There is a fence behind the sheep. 
+test_652,There is a boat in the water. The boat is white. There is water behind the boat. 
+test_653,A woman is standing on a train. She is wearing a black jacket and black pants. There is a man standing behind her. He is holding a white bag in his hand. 
+test_654,A woman is sitting at a table in a restaurant. She is wearing a white shirt and black pants. There is a glass of wine in front of her. 
+test_655,This is a picture of a beach. The beach has a large body of water. There are people sitting on the sand at the water's edge. One of the people is wearing a white shirt and blue jean shorts. They are standing on
+test_656,A person is flying a kite in the air. The sky is blue and has no clouds. There is a large body of water behind the person. 
+test_657,A man is standing in the middle of the photo. He is wearing a black jacket and black pants. There is a large white building behind the man. 
+test_658,A silver laptop is sitting on a table. There is a white wall behind the laptop. 
+test_659,There is a train on the tracks. The train is yellow and blue. There are people standing in front of the train. 
+test_660,This is a picture of a clock. The clock is white with black numbers on it. There are mountains in the background. the mountains are covered with snow. 
+test_661,This is an image of a street. The street is very busy with traffic. There is a red light on the right of the image. A car is driving down the road. It has a black license plate on it. 
+test_662,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_663,This is a picture of a cat. The cat is black and white. There is writing on the cat's fur. the writing is white and black. 
+test_664,There is a boat in the water. The boat is white. There is water behind the boat. 
+test_665,A man in a black wet suit is standing on top of a snowboard. The man is wearing a helmet and goggles. There is snow on the ground in front of the man. 
+test_666,There are two giraffes standing in a field. There are trees behind them. 
+test_667,A white bowl is sitting on a table. There are bananas on the table behind the bowl. 
+test_668,There is a wooden table in the middle of the room. There are two chairs next to the table. The chairs are white. 
+test_669,The kitchen is very clean. The stove is white. There is a window on the wall above the stove. 
+test_670,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_671,This is an image of a cat. The cat is black and white. There is a window on the wall behind the cat with a white curtain on it.  The window is made of glass. Glasses of water are in the window.
+test_672,A group of people are standing on a grassy field. There is a boy wearing a blue shirt and blue shorts. He is holding a red frisbee in his hand. 
+test_673,There is a clock on the top of a building. The clock is black and white. There are trees behind the clock. 
+test_674,A man is sitting on a bench in front of a door. He is wearing a black shirt and black pants. There is a white wall behind the man. 
+test_675,A herd of sheep are grazing in a field.  The field has green grass and weeds on the ground. The sheep have long necks and horns and are brown and white with black spots on their heads and ears. There are trees in the field
+test_676,A man is standing on a tennis court. He is wearing a white shirt and white shorts. The man has a black helmet on his head. There is a green fence behind the man. 
+test_677,A group of people are standing outside on a sunny day. They are all holding umbrellas over their heads. There is a man in a blue shirt standing in front of the people. 
+test_678,A toilet is in the corner of a bathroom. The toilet has a white tank. There is a toilet seat next to the toilet. 
+test_679,This is an image of a polar bear. The bear is brown and has a black nose and fuzzy ears. There is a rock on the ground in front of the bear that is gray and white. 
+test_680,There is a cat sitting on top of a table. The cat is black and white and has a white collar around its neck. There is food on the table behind the cat. 
+test_681,This is a picture of a horse. The horse is brown and has a black mane on the back of it. There are trees behind the horse and there are mountains in the distance. 
+test_682,A white plate is sitting on a table. There is food on top of the plate. 
+test_683,This is a picture of a table. The table is made of wood. There are two glasses on it. One of the glasses has a wine in it and the other one has no wine at all. 
+test_684,There is a large body of water in the distance. The water is calm and has a few small ripples in it. There are trees on the other side of the water. 
+test_685,A woman is standing in front of a man. The man is wearing a white shirt and a black tie. He is holding a camera in his hand. There is a large window behind the woman. 
+test_686,This is an image of a street. The street is made up of brick. There is a red and white sign on the side of the building. This sign has a white arrow on it. 
+test_687,"A baseball player is standing on a baseball field. He is wearing a red and white uniform, black helmet, and black gloves. A catcher is squatting behind the player. The catcher has a black glove on his right hand. "
+test_688,A man is surfing on a wave. He is wearing a black wet suit. The man has a white surfboard in his hand. There are waves in the water behind him. 
+test_689,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_690,There is a truck parked on the side of the road. The truck is white. There are trees behind the truck. 
+test_691,This is an image of a large body of water. The water is calm and has a few small ripples in it. There is a blue and white bird flying in the air towards the camera. 
+test_692,There are two giraffes standing in a field. There is a fence behind them. 
+test_693,A woman is standing on a sidewalk. She is wearing a white shirt and black pants. There is a black bag on the ground next to her. 
+test_694,A white bowl is sitting on a white table. There is a silver fork on the table next to the bowl. 
+test_695,A large white truck is parked on the side of a street. There is a white building behind the truck. 
+test_696,A group of people are sitting at a table in a room. There is a woman sitting in front of the table. The woman is wearing a white shirt and white pants. She is also holding a wine glass in her hand. 
+test_697,There are people walking on the sidewalk. There is a man in a blue shirt standing in front of the people. The man is holding a white umbrella. 
+test_698,A man is standing in a room holding a white game controller in his hand. He is wearing a black shirt and black pants. There is a large window behind the man. 
+test_699,This is an image of a horse. The horse is brown and has a black mane on it. There is a man standing in front of the horse with a white hat on his head. 
+test_700,This is a picture of a clock tower. The tower is made of stone. There are people standing in the tower watching the clock. Some of the people are wearing hats on their heads. 
+test_701,This is a picture of a person walking on a beach. The person is holding a white surfboard in their hand. There is water in front of the person. 
+test_702,This is a picture of a computer. The computer is sitting on a desk. There is an envelope on the desk in front of it. 
+test_703,This is an image of a runway. The runway is made up of concrete. There is a large airplane parked on the ground in the middle of the pavement. This airplane is white with a blue stripe down the side of it. 
+test_704,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_705,This is a picture of a woman. The woman is holding a purse in her left hand. She is wearing a white shirt. There is an apple on the top of the woman's head. 
+test_706,A herd of elephants are standing in a field. There is a large rock wall behind the elephants. 
+test_707,This is an image of a polar bear. The bear is brown and white. There is a rock on the ground next to the bear that is gray and has a white stripe down the side of it. 
+test_708,This is an image of a city. The sky is blue with white clouds in it. There is a tall building with a clock on the front of it in the middle of the sky. 
+test_709,A woman is standing on a tennis court playing tennis. She is wearing a white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_710,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. There is a fence behind the player. 
+test_711,A man is sitting at a table in a restaurant. He is wearing a white shirt and black pants. There is a glass of wine on the table behind him. 
+test_712,There is a boat in the water. The boat is white and blue. There are people standing on the side of the boat.
+test_713,A woman is sitting on a bed. She is wearing a white shirt. There is a blue blanket on her head. 
+test_714,A group of people are standing in a field on a cloudy day. They are all holding kites in their hands. There is a fence behind the people. 
+test_715,A man is riding a motorcycle on the street. He is wearing a black jacket and black pants. There is a white building behind him. 
+test_716,A large white truck is parked on the side of a street. There is a white building behind the truck. 
+test_717,A man is standing in a kitchen. He is wearing a white shirt and black pants. There is a silver kettle in front of the man. 
+test_718,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_719,There are two giraffes standing in a field. There are trees behind them. 
+test_720,A man is standing on top of a snow covered mountain. He is wearing a black jacket and black pants. There is snow all around him. 
+test_721,A woman is sitting at a table. She is wearing a short sleeve shirt. There is a white bowl on the table in front of her. 
+test_722,A group of people are standing on a beach. There is a large white kite in the sky above them. 
+test_723,This is an image of a bus. The bus is white with a red stripe down the side of it. There is a man standing in front of the bus with his arms crossed. He is wearing a black shirt and blue jeans. 
+test_724,There is a cat sitting on top of a bed. The cat is black and white and has a white collar around its neck. There are two pillows next to the cat. 
+test_725,A man is sitting at a table in a restaurant. He is wearing a white shirt and a black tie. There is a glass of wine in front of him. 
+test_726,This is a bathroom. The walls are white and the floor is made of tiles. There are towels hanging on the wall. 
+test_727,A pizza is sitting on top of a white plate. There is cheese and onions on the pizza. 
+test_728,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow all around him. 
+test_729,This is an image of a bear. The bear is brown and black with a black snout and ears. There is a tree behind the bear that has green leaves on it. 
+test_730,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_731,There is a stop sign on the street. The sign is red and white. There are cars parked in front of the sign. 
+test_732,A cat is sitting on top of a laptop. The laptop is black. There is a white wall behind the cat. 
+test_733,A bird is flying in the sky. The bird has a white body and wings. There are mountains behind the bird. 
+test_734,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a large wave behind the man. 
+test_735,"A man is riding a motorcycle on a dirt track. He is wearing a black helmet, a white shirt and black pants. There is a yellow line in the dirt behind him. "
+test_736,This is an image of some food. The food is cooked. There is broccoli and cauliflower on top of the broccoli. there are carrots and onions on the carrots. 
+test_737,A woman is laying on a bed with her head on the bedspread. She is wearing a light blue shirt and black pants. There is a blue blanket on her lap. 
+test_738,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_739,A white plate is sitting on a table. There is a cake on the plate. The cake has white frosting on it. 
+test_740,This is an image of a desktop computer. The computer is sitting on a desk. There is a black keyboard on the desk with a white mouse pad on it. 
+test_741,A man is sitting at a table. He is wearing a suit. The suit is white. There is a white wall behind the man. 
+test_742,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. 
+test_743,There are two giraffes standing in a field. There are trees behind them. 
+test_744,A white plate is sitting on top of a white table. There is a large white bowl on the table behind the plate. 
+test_745,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. 
+test_746,There are two giraffes standing in a field. There are trees behind them. 
+test_747,"This photo is taken outside on a sunny day. A man is standing in front of a brick building. He is wearing a short sleeve shirt, short leggings, and a pair of black shoes. The building has a large window on the"
+test_748,A group of people are standing in front of a building. There is a man in a blue shirt and black pants. He is holding a white game controller in his hand. 
+test_749,A group of people are sitting at a table in a restaurant. There is a woman sitting in front of the table with her head down. She is wearing a white shirt and black pants. The table is made of wood. 
+test_750,There is a boat in the water. The boat is white and blue. There are people standing on the sand behind the boat. 
+test_751,This is a picture of a building. The building has a clock on the front of it. There is an old building behind the clock. 
+test_752,A white plate is sitting on a table. There is a white bowl on the table behind the plate. 
+test_753,A large white and blue airplane is flying in the sky. There is a large propeller on the front of the airplane. 
+test_754,There are two giraffes standing in a field. There are trees behind them. 
+test_755,A woman is standing on a tennis court playing tennis. She is wearing a white tank top and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_756,This is an image of a cat. The cat is black and white. There is a white wall behind the cat and it has a black nose and fuzzy ears. 
+test_757,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_758,A cat is laying on a bed. The cat has a black nose and fuzzy ears. There is a white blanket on the bed behind the cat. 
+test_759,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_760,There is a sign on the side of the street. The sign is black and white. There are trees behind the sign. 
+test_761,A man is surfing in the water. He is wearing a black wet suit. There is a white surfboard behind him. 
+test_762,There is a boat in the water. The boat is white and blue. There are trees on the other side of the boat. 
+test_763,There is a boat in the water. The boat is white and blue. There are people standing on the sand behind the boat. 
+test_764,A large white truck is driving down the road. There are trees behind the truck. 
+test_765,A boy and a girl are standing on a grassy field. The boy is wearing a blue shirt and blue shorts. He is holding a red frisbee in his hand. There are trees behind the boy on the grass. 
+test_766,This is a picture of a boat. The boat is white and blue. There are people sitting on the boats. One of the people is wearing a white shirt. 
+test_767,A man is standing on a sidewalk. He is wearing a black jacket and black pants. There is a red and white sign on the sidewalk behind him. 
+test_768,A woman is playing tennis on a tennis court. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_769,A black and white dog is laying on the ground. The dog has a black collar around its neck. There is a brown dog laying next to the dog. 
+test_770,A group of people are standing outside on a sunny day. They are all holding umbrellas over their heads. There is a large tree in front of the people. 
+test_771,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_772,A bathroom with white walls. There is a white toilet in the bathroom. The sink is white. 
+test_773,This is a picture of a house. The house is made of brick. There are two windows on the front of the house with white curtains on them. One window has a white curtain on it. 
+test_774,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. There is a fence behind the player. 
+test_775,This is an image of a polar bear. The bear is standing on a rock. There is snow on the ground. the snow is white. there is a tree in front of the bear that has green leaves on it. 
+test_776,A large stainless steel refrigerator is in the corner of the room. There is a white microwave above the refrigerator. 
+test_777,A bunch of people are standing outside on a rainy day. They all have umbrellas on their heads. There is a man in a blue shirt standing in front of the people. 
+test_778,The kitchen is very clean. The stove is white. There is a window on the wall behind the stove. 
+test_779,This is an image of a street. The street is made up of tall buildings. There is a red light on the pole in front of the building. A man is standing on a sidewalk. He is wearing a black jacket and black pants.
+test_780,There are many boats in the water. There is a man walking on the sand. The man is wearing a white shirt. 
+test_781,This is an image of a street. The street is very busy with traffic. There is a car parked on the side of the road. It is white and has a red license plate on it. 
+test_782,A large white and blue airplane is sitting on the runway. There is a large blue and white sign above the airplane. 
+test_783,A large white and blue airplane is sitting on the runway. There is a large blue and white sign above the airplane. 
+test_784,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a wave coming up behind the man. 
+test_785,There is a white and blue couch in the room. There are two windows on the wall behind the couch. 
+test_786,There are two giraffes standing in a field. There are trees behind them. 
+test_787,There are two giraffes standing in a field. There are trees behind them. 
+test_788,A herd of sheep are grazing in a field. There is a fence behind the sheep. 
+test_789,There are two elephants standing in a field. There is a fence behind the elephants. 
+test_790,This is an image of a cat. The cat is gray and black. There is a window on the wall behind the cat with a white curtain on it. 
+test_791,This is a picture of a clock. The clock is black and has a white face on it. There are people standing in front of the clock on the sidewalk. Some of them are wearing hats on their heads. 
+test_792,A man is standing on a tennis court playing tennis. He is wearing a short sleeve shirt and white shorts. The court is blue with white lines on it. A green ball is soaring in the air towards the man. 
+test_793,A group of people are sitting at a table. There is a man in a blue shirt standing in front of them. He is holding a white game controller in his hand. 
+test_794,There is a truck parked on the side of the road. The truck is white. There are trees behind the truck. 
+test_795,A toilet is in the corner of the room. The toilet has a white toilet seat. There is a mirror on the wall behind the toilet. 
+test_796,A man in a black wet suit is surfing on a white surfboard. The man is wearing a blue shirt and black shorts. There is a large wave behind the man. 
+test_797,This is a picture of a computer. The computer is sitting on a black desk. There are buttons on the computer that are black and white. One of the buttons is red and the other button is green. 
+test_798,A bunch of bananas are sitting on top of a table. The table is made of wood. There is a basket on the table behind the bananas. 
+test_799,There is a train on the tracks. The train is yellow and blue. There are wires above the train. 
+test_800,A bathroom with white walls. There is a mirror on the wall above the sink. The sink is white. 
+test_801,"A man is riding a motorcycle on a paved road. He is wearing a black helmet, a white shirt and black pants. The motorcycle is black. There are trees behind the man. "
+test_802,A white plate is sitting on a table. There are vegetables on top of the plate. 
+test_803,There is a boat in the water. The boat is white and blue. There are people standing on the side of the boat. 
+test_804,This is a picture of a cake. The cake has white frosting on top of it. There are white candles on the table next to the white icing. 
+test_805,A man and woman are sitting at a table. The man is wearing a white shirt and a black tie. He is holding a wine glass in his hand. There is a cake on the table behind the man. 
+test_806,A pizza is sitting on a white plate. There is cheese on top of the pizza. 
+test_807,A toilet is in the corner of the room. There is a white toilet on the ground next to the toilet. The floor is made of tiles. 
+test_808,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_809,This is a picture of a building. The building has a clock on the front of it. There are people standing in the photo. Some of the people are holding umbrellas. 
+test_810,A man in a black shirt and black pants is standing in the doorway of a store. The man is holding a white game controller in his hand. There is a large window behind the man. 
+test_811,There are two giraffes standing in a field. There is grass on the ground in front of them. 
+test_812,There is a red and white bus on the street. There are people standing in front of the bus. 
+test_813,A man is standing on a snowboard. He is wearing a black jacket and black pants. There is snow on the ground behind him. 
+test_814,"This is an image of a vehicle. The vehicle is a motorcycle. There is writing on the side of the vehicle that says, ""Motorcycle Only"". The motorcycle is black and has a red and white stripe down the middle of its body."
+test_815,This is an image of a computer. The computer is sitting on a desk. There is a black keyboard and mouse on top of the keyboard. 
+test_816,This is a picture of a store. The store has a lot of different things on the shelves. There are many different fruits and vegetables. Some of the fruits are green and some are yellow. 
+test_817,A man is sitting at a table. He is wearing a white shirt and a black tie. There is a silver laptop on the table behind him. 
+test_818,There is a white table in the middle of the room. There are two chairs next to the table. 
+test_819,A woman is sitting on a bench. The bench is made of wood. She is wearing a white shirt. There is a large window behind the woman. 
+test_820,A bed is in the corner of the room. The bed has a white blanket on it. There is a mirror on the wall behind the bed. 
+test_821,There is a giraffe standing in a field. There is grass on the ground in front of the giraffes. The grass is tall and green. 
+test_822,There is a toilet in the corner of the room. The toilet is white. There are towels hanging on the wall above the toilet. 
+test_823,A laptop is sitting on top of a desk. There is a white keyboard on the desk in front of the laptop. 
+test_824,A large elephant is standing in a field. The elephant has a long trunk. There is grass on the ground around the elephant. 
+test_825,A group of people are sitting at a table in a restaurant. There is a woman sitting in front of the table. The woman is wearing a white shirt and white pants. She is also holding a wine glass in her hand. 
+test_826,There is a stop sign on the side of the road. The sign is red and white. There are cars parked in the parking lot behind the sign.
+test_827,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a fence behind the woman. 
+test_828,The kitchen is very clean. The stove is white. There is a window on the wall behind the stove. 
+test_829,There is a sign on the side of the street. The sign is red and white. There are trees behind the sign. 
+test_830,A group of people are sitting at a table in a room. There is a television on a stand in front of them. 
+test_831,A man and a woman are standing in a room. The man is wearing a black shirt and white pants. He is holding a white remote in his hand. There is a large window behind the man. 
+test_832,A black and white zebra is standing in a field. There is grass on the ground around the zebras. 
+test_833,There is a wooden table in the middle of the room. There are two chairs next to the table. 
+test_834,This is an image of a computer. The computer is sitting on a desk. There is a black keyboard and mouse on top of the keyboard. 
+test_835,A man is sitting at a table. He is wearing a white shirt. There is a silver laptop on the table behind him. 
+test_836,A woman is sitting at a table in a restaurant. She is wearing a white shirt and black pants. There is a large window on the wall behind her. 
+test_837,A pizza is sitting on top of a white plate. There is a pizza cutter on the table next to the pizza. 
+test_838,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a wave coming up behind the man. 
+test_839,A white cow is standing in a field. There is a white fence behind the cow. 
+test_840,A man is skateboarding outside on a sunny day. He is wearing a black shirt and black pants. The skateboard is black and the wheels are black. There are trees behind the man. 
+test_841,This is an image of a zoo. The zoo has a lot of animals. There is a giraffe in the middle of the picture. It is brown and white. 
+test_842,A man is sitting on a bench. The bench is made of wood. There is a white wall behind the man. 
+test_843,A man is skiing down a hill. He is wearing a black jacket and black pants. There is snow on the hill behind him. 
+test_844,A man is sitting on a bench in front of a door. He is wearing a black jacket and black pants. There is a large window behind the man. 
+test_845,This is a picture of a street. The street is very busy with traffic. There are many cars on the road. Some of the cars are white and some of them are black. You can see trees in the distance.
+test_846,This is an image of a person. The person is standing on a grassy area. There is a large tree in front of the person that has green leaves on it. 
+test_847,A man is sitting at a table in a restaurant. He is wearing a white shirt and black pants. There is a silver fork in front of the man. 
+test_848,This is an image of a road. The road is paved. There is a person riding on the road with a bike. They are wearing a black jacket and black pants. 
+test_849,There is a toilet in the corner of the room. The toilet is white. There are towels hanging on the wall above the toilet. 
+test_850,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_851,There is a large white boat in the water. There are people standing on the sand next to the boat. The water is calm. 
+test_852,A woman is standing outside on a sidewalk. She is wearing a white shirt and black pants. There is a black bag on the ground in front of her. 
+test_853,There is a bus on the street. The bus is white and blue. There are people standing in front of the bus. 
+test_854,There is a clock on the top of the building. The clock is black and white. There are people standing in front of it. 
+test_855,There is a train on the tracks. The train is yellow and blue. There are trees behind the train. 
+test_856,A woman is sitting on a bench in front of a door. She is wearing a black jacket and black pants. There is a large window on the wall behind her. 
+test_857,A man is sitting on a bench. He is wearing a black shirt and black pants. There is a white wall behind him. 
+test_858,A boy is standing on a skateboard. He is wearing a black shirt and black pants. There is a white wall behind the boy. 
+test_859,There is a boat in the water. The boat is white and blue. There are people standing on the sand behind the boat. 
+test_860,A man is surfing on a wave. He is wearing a black wet suit. There is a white surfboard behind him. 
+test_861,A man is surfing in the water. He is wearing a black wet suit. The man has a white surfboard in his hand. There is a wave coming up behind the man. 
+test_862,There is a baby sitting on a bed. The baby is wearing a blue shirt. There is another baby behind the baby. 
+test_863,A man is sitting on a bench. He is wearing a black shirt and black pants. There is a white wall behind him. 
+test_864,This is an image of a street. The street is made up of tall buildings. There is a red fire hydrant on the side of the building that is taller than the one in front of it. 
+test_865,This is an image of a field. The field is green. There is a bird flying in the air in front of the bird. This bird is black and white. 
+test_866,"A man is riding a motorcycle on a dirt track. He is wearing a black helmet, a white shirt and black pants. There is a red and white flag on the top of the motorcycle. "
+test_867,This is an image of a building. The building is made up of brick. There is a clock on the side of the building with black numbers on it. 
+test_868,There is a train on the tracks. The train is yellow and blue. There are trees behind the train. 
+test_869,This picture is taken inside of a living room. A white couch is sitting against a white wall. There is a large window on the wall behind the couch. Large brown books are sitting on top of the window. Small brown chairs can be seen
+test_870,A man is surfing in the water. He is wearing a black wet suit. There is a white surfboard behind him. 
+test_871,A man and a woman are standing outside on a cloudy day. The man is wearing a black shirt and black pants. He is holding a white bag in his hand. There are people standing in front of the man. 
+test_872,There is a white toilet in the bathroom. The toilet is white. There are towels hanging on the wall above the toilet. 
+test_873,A woman is sitting on a bench. She is wearing a white shirt and black pants. There is a large tree behind her. 
+test_874,A man is walking on the sidewalk. He is wearing a black shirt and black pants. There is a red car behind him. 
+test_875,A red and white double decker bus is parked on the side of a street. There is a large white building behind the bus. 
+test_876,A little boy is standing on a grassy field. He is wearing a blue shirt and blue shorts. The boy has short dark hair and is holding a red frisbee in his hand. There are trees behind the boy. 
+test_877,This photo is taken outside on a sunny day. A large tree is standing in front of a building. There is a large window on the building behind the tree. Large windows can be seen in the window. Tall leafless trees can also be
+test_878,A white plate is sitting on a table. There is a white bowl on the table next to the plate. 
+test_879,A group of people are standing outside on a sunny day. They are all holding umbrellas over their heads. There is a man in a blue shirt standing in front of them. 
+test_880,A man in a black wet suit is standing on a beach. He is holding a white surfboard in his hand. There is water behind the man. 
+test_881,A woman is standing on a tennis court playing tennis. She is wearing a short sleeve white shirt and white shorts. A green tennis ball is soaring in the air towards her. There is a green fence behind the woman. 
+test_882,A man is walking on a sidewalk. He is wearing a black jacket and black pants. There is a red and white sign on the sidewalk behind him. 
+test_883,This is a picture of a cat. The cat is black and white. There are flowers in the background of the picture.  The flowers are green and yellow.
+test_884,This is an image of a person. The person is wearing a black jacket and blue pants. There is a blue bag on the ground in front of them. 
+test_885,A bed is in the corner of the room. The bed has a white blanket on it. There is a mirror on the wall behind the bed. 
+test_886,This is a picture of a cake. The cake has white frosting on top of it. There are white candles on the table. 
+test_887,This is an image of a bus stop. The bus is white with a red stripe down the side of it. There is a man standing in front of the bus. He is wearing a black shirt and blue jeans. 
+test_888,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. There is a fence behind the player. 
+test_889,There is a train on the tracks. The train is red and white. There are trees behind the train. 
+test_890,A man is jumping in the air on a skateboard. He is wearing a black shirt and black pants. There are trees behind the man. 
+test_891,A man in a blue shirt and black pants is standing in front of a door. He is holding a white game controller in his hand. There are people standing behind him. 
+test_892,The kitchen is very clean. The stove is white. There is a window on the wall behind the stove. 
+test_893,A large white and blue airplane is parked on the ground. There is a red and white flag on a pole in front of the airplane. 
+test_894,This is a picture of a building. The building has a clock on the front of it. There are trees behind the clock. Some of the trees are green and some are brown. 
+test_895,This is an image of a cat. The cat is black and white. There is a sink in front of the cat that is white and made of glass. 
+test_896,A man is sitting at a table. He is wearing a white shirt and a black tie. There is a silver laptop on the table behind him. 
+test_897,A woman is sitting on a bed in a room. She is wearing a black jacket and black pants. There is a blue blanket on the bed. 
+test_898,A cake is sitting on top of a white plate. The cake has white frosting on it. There is a blue candle on the table behind the cake. 
+test_899,This is a picture of a train on the tracks. The train is blue and white. There are wires hanging from the top of the train. 
+test_900,There is a clock on the top of the building. The clock is black and white. There are trees behind the clock. 
+test_901,There is a red and white bus on the street. There are people standing on a sidewalk next to the bus. 
+test_902,A group of people are standing on skis in the snow. They are all wearing hats on their heads. There is a person wearing a red jacket and black pants. 
+test_903,A man is riding a bike down the street. He is wearing a black jacket and black pants. There is a red and white sign on the front of the bike. 
+test_904,This is an image of a zoo. The zoo has a lot of animals in it. There is a giraffe in the middle of the photo. It is brown and white. 
+test_905,A man is standing on a beach. He is wearing a black shirt and blue shorts. There is a white surfboard behind him. 
+test_906,"A man is skateboarding outside on a sunny day. He is wearing a black jacket, black pants, and black shoes. The skateboard is black and the wheels are black. There are trees behind the man. "
+test_907,A black and white cow standing in a field. There is a white fence behind the cow. 
+test_908,A brown and white cow standing in a field. There is a fence behind the cow. 
+test_909,There is a zebra in the water. The water is blue and has small waves in it. There is grass on the ground in front of him. 
+test_910,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with white writing on the side of the uniform. The player has a black helmet on his head. 
+test_911,This is a picture of a building. The building has a clock on the front of it. There are people standing in the street. Some of the people are holding umbrellas. 
+test_912,"This is an image of a bus stop. The bus is white and blue. There is a sign on the side of the bus that says ""End of Line"". The sign is red and white. "
+test_913,This is an image of a computer. The computer is sitting on a desk. There is a black keyboard and mouse on top of the keyboard. 
+test_914,A man and a woman are sitting at a table in a room. The man is wearing a short sleeve shirt and blue jeans. He is holding a white game controller in his hand. There is a large window behind the man. 
+test_915,There is a white plate on the table. There is food on top of the plate. 
+test_916,A laptop is sitting on a desk. There is a white keyboard on the desk in front of the laptop. 
+test_917,Two zebras are standing in a field. There is a fence behind them. 
+test_918,"A man is standing on a grassy field. He is wearing a short sleeve shirt, shorts, and a pair of socks. The grass is short and green. There is a blue and white kite in the sky above the man. "
+test_919,This is a picture of a lake. The lake is surrounded by green grass. There is water in front of the lake and the grass is green and healthy. 
+test_920,A red and white bus is on the street. There is a white building behind the bus. 
+test_921,A white plate is sitting on a table. There is a silver fork on the table next to the plate. 
+test_922,A baseball player is standing on a baseball field. He is wearing a blue and white uniform with a black helmet. There is a catcher kneeling on the ground behind him. 
+test_923,This is an image of a man and a dog. The man is holding a camera in his right hand. He is wearing a short sleeve shirt and pants. There is a large tree behind the man. 
+test_924,A brown and white cow standing in a field. There is a fence behind the cow. The cow is standing on the grass. 
+test_925,There is a large white airplane in the sky. There are people standing on the ground next to the airplane. 
+test_926,There is a train on the tracks. The train is red and white. There are wires above the train. 
+test_927,A herd of sheep are grazing in a field. There is a fence surrounding the sheep. The sheep have horns on their heads. 
+test_928,A man in a black wet suit is standing on a beach. The man is holding a white surfboard in his hand. There is water behind the man. 
