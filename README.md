@@ -45,8 +45,7 @@ The trained model file (`best_captioning_model.pt`) is loaded directly from a Ka
   Roll No: 22CS10087
 
 - **Diganta Mandal**  
-  Email: digantamindia@gmail.com  
-  Roll No: 22CS30062
+  Email: digantamindia@gmail.com  Roll No: 22CS30062
 
 ## Thanks and Acknowledgements
 
