@@ -1,6 +1,6 @@
 # Image Captioning with Occlusion Analysis
 
-This project implemets a ViT-GPT2-based image captioning model, with experiments analyzing model robustness under different levels of image occlusion (10%, 50%, 80%).
+This project implemets a ViT-GPT2-based image captioning model, with experiments analyzing model robustness under different levels of image occlusion (10%, 50%, 80%). Link to dataset: https://github.com/eco-mini/custom_captions_dataset
 
 ## Contents
 
